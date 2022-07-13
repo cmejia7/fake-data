@@ -1,2742 +1,2504 @@
 [
   {
-    "originalLoanDate": "2020-10-11T10:27:54.390Z",
-    "originalLoanAmount": 58998,
-    "yearlyInterestRate": 8,
-    "terms": 10,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1919,
-    "balanceAdjustments": [],
+    "originalLoanDate": "2019-05-09T20:42:10.588Z",
+    "originalLoanAmount": 29749,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 1503,
+    "paymentCutOff": 38
+  },
+  {
+    "originalLoanDate": "2019-05-09T20:42:10.588Z",
+    "originalLoanAmount": 29749,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 38
+  },
+  {
+    "originalLoanDate": "2021-08-06T15:11:12.184Z",
+    "originalLoanAmount": 66779,
+    "yearlyInterestRate": 10,
+    "terms": 15,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2356,
     "paymentCutOff": 42
   },
   {
-    "originalLoanDate": "2020-10-11T10:27:54.390Z",
-    "originalLoanAmount": 58998,
-    "yearlyInterestRate": 8,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 20
-  },
-  {
-    "originalLoanDate": "2019-10-12T09:40:00.986Z",
-    "originalLoanAmount": 94204,
-    "yearlyInterestRate": 4,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1588,
-    "balanceAdjustments": [],
-    "paymentCutOff": 32
-  },
-  {
-    "originalLoanDate": "2019-10-12T09:40:00.986Z",
-    "originalLoanAmount": 94204,
-    "yearlyInterestRate": 4,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 32
-  },
-  {
-    "originalLoanDate": "2021-10-22T08:48:10.167Z",
-    "originalLoanAmount": 67340,
-    "yearlyInterestRate": 6,
-    "terms": 3,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 2403,
-    "balanceAdjustments": [],
-    "paymentCutOff": 32
-  },
-  {
-    "originalLoanDate": "2021-10-22T08:48:10.167Z",
-    "originalLoanAmount": 67340,
-    "yearlyInterestRate": 6,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 8
-  },
-  {
-    "originalLoanDate": "2020-09-30T09:57:46.426Z",
-    "originalLoanAmount": 101462,
-    "yearlyInterestRate": 4,
-    "terms": 20,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2089,
-    "balanceAdjustments": [],
-    "paymentCutOff": 41
-  },
-  {
-    "originalLoanDate": "2020-09-30T09:57:46.426Z",
-    "originalLoanAmount": 101462,
-    "yearlyInterestRate": 4,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 21
-  },
-  {
-    "originalLoanDate": "2017-04-25T16:25:38.546Z",
-    "originalLoanAmount": 77523,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2226,
-    "balanceAdjustments": [],
-    "paymentCutOff": 62
-  },
-  {
-    "originalLoanDate": "2017-04-25T16:25:38.546Z",
-    "originalLoanAmount": 77523,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 62
-  },
-  {
-    "originalLoanDate": "2019-11-05T06:51:20.559Z",
-    "originalLoanAmount": 43999,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2508,
-    "balanceAdjustments": [],
-    "paymentCutOff": 61
-  },
-  {
-    "originalLoanDate": "2019-11-05T06:51:20.559Z",
-    "originalLoanAmount": 43999,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 31
-  },
-  {
-    "originalLoanDate": "2020-11-10T10:22:15.287Z",
-    "originalLoanAmount": 74692,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1756,
-    "balanceAdjustments": [],
-    "paymentCutOff": 40
-  },
-  {
-    "originalLoanDate": "2020-11-10T10:22:15.287Z",
-    "originalLoanAmount": 74692,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 19
-  },
-  {
-    "originalLoanDate": "2018-11-26T05:56:02.021Z",
-    "originalLoanAmount": 72264,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1347,
-    "balanceAdjustments": [],
-    "paymentCutOff": 184
-  },
-  {
-    "originalLoanDate": "2018-11-26T05:56:02.021Z",
-    "originalLoanAmount": 72264,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 43
-  },
-  {
-    "originalLoanDate": "2020-03-24T00:34:13.062Z",
-    "originalLoanAmount": 13177,
-    "yearlyInterestRate": 2,
-    "terms": 15,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 488,
-    "balanceAdjustments": [],
-    "paymentCutOff": 115
-  },
-  {
-    "originalLoanDate": "2020-03-24T00:34:13.062Z",
-    "originalLoanAmount": 13177,
-    "yearlyInterestRate": 2,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 27
-  },
-  {
-    "originalLoanDate": "2019-07-08T16:35:41.628Z",
-    "originalLoanAmount": 88248,
-    "yearlyInterestRate": 4,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1824,
-    "balanceAdjustments": [],
-    "paymentCutOff": 35
-  },
-  {
-    "originalLoanDate": "2019-07-08T16:35:41.628Z",
-    "originalLoanAmount": 88248,
-    "yearlyInterestRate": 4,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 35
-  },
-  {
-    "originalLoanDate": "2018-02-09T15:02:03.669Z",
-    "originalLoanAmount": 81436,
-    "yearlyInterestRate": 6,
-    "terms": 5,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1648,
-    "balanceAdjustments": [],
-    "paymentCutOff": 112
-  },
-  {
-    "originalLoanDate": "2018-02-09T15:02:03.669Z",
-    "originalLoanAmount": 81436,
-    "yearlyInterestRate": 6,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 52
-  },
-  {
-    "originalLoanDate": "2017-09-11T13:11:02.785Z",
-    "originalLoanAmount": 32748,
-    "yearlyInterestRate": 8,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2844,
-    "balanceAdjustments": [],
-    "paymentCutOff": 57
-  },
-  {
-    "originalLoanDate": "2017-09-11T13:11:02.785Z",
-    "originalLoanAmount": 32748,
-    "yearlyInterestRate": 8,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 57
-  },
-  {
-    "originalLoanDate": "2017-02-05T04:08:33.031Z",
-    "originalLoanAmount": 53246,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2995,
-    "balanceAdjustments": [],
-    "paymentCutOff": 138
-  },
-  {
-    "originalLoanDate": "2017-02-05T04:08:33.031Z",
-    "originalLoanAmount": 53246,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 64
-  },
-  {
-    "originalLoanDate": "2018-09-16T09:49:19.829Z",
-    "originalLoanAmount": 74697,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 191,
-    "balanceAdjustments": [],
-    "paymentCutOff": 193
-  },
-  {
-    "originalLoanDate": "2018-09-16T09:49:19.829Z",
-    "originalLoanAmount": 74697,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 45
-  },
-  {
-    "originalLoanDate": "2022-03-05T07:09:38.698Z",
-    "originalLoanAmount": 50916,
-    "yearlyInterestRate": 6,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2247,
-    "balanceAdjustments": [],
-    "paymentCutOff": 3
-  },
-  {
-    "originalLoanDate": "2022-03-05T07:09:38.698Z",
-    "originalLoanAmount": 50916,
-    "yearlyInterestRate": 6,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 3
-  },
-  {
-    "originalLoanDate": "2019-07-15T07:11:40.163Z",
-    "originalLoanAmount": 69513,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1601,
-    "balanceAdjustments": [],
-    "paymentCutOff": 149
-  },
-  {
-    "originalLoanDate": "2019-07-15T07:11:40.163Z",
-    "originalLoanAmount": 69513,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 35
-  },
-  {
-    "originalLoanDate": "2021-05-22T01:16:05.935Z",
-    "originalLoanAmount": 25279,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 543,
-    "balanceAdjustments": [],
-    "paymentCutOff": 27
-  },
-  {
-    "originalLoanDate": "2021-05-22T01:16:05.935Z",
-    "originalLoanAmount": 25279,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 13
-  },
-  {
-    "originalLoanDate": "2017-09-12T17:21:28.289Z",
-    "originalLoanAmount": 13731,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 57,
-    "balanceAdjustments": [],
-    "paymentCutOff": 245
-  },
-  {
-    "originalLoanDate": "2017-09-12T17:21:28.289Z",
-    "originalLoanAmount": 13731,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 57
-  },
-  {
-    "originalLoanDate": "2017-12-08T13:29:35.243Z",
-    "originalLoanAmount": 32742,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2545,
-    "balanceAdjustments": [],
-    "paymentCutOff": 107
-  },
-  {
-    "originalLoanDate": "2017-12-08T13:29:35.243Z",
-    "originalLoanAmount": 32742,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 54
-  },
-  {
-    "originalLoanDate": "2021-12-06T05:59:06.380Z",
-    "originalLoanAmount": 73151,
-    "yearlyInterestRate": 10,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2890,
-    "balanceAdjustments": [],
-    "paymentCutOff": 6
-  },
-  {
-    "originalLoanDate": "2021-12-06T05:59:06.380Z",
-    "originalLoanAmount": 73151,
-    "yearlyInterestRate": 10,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 6
-  },
-  {
-    "originalLoanDate": "2017-11-06T19:18:21.871Z",
-    "originalLoanAmount": 92922,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 78,
-    "balanceAdjustments": [],
-    "paymentCutOff": 109
-  },
-  {
-    "originalLoanDate": "2017-11-06T19:18:21.871Z",
-    "originalLoanAmount": 92922,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 55
-  },
-  {
-    "originalLoanDate": "2020-03-23T02:37:13.319Z",
-    "originalLoanAmount": 31974,
-    "yearlyInterestRate": 10,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2906,
-    "balanceAdjustments": [],
-    "paymentCutOff": 27
-  },
-  {
-    "originalLoanDate": "2020-03-23T02:37:13.319Z",
-    "originalLoanAmount": 31974,
-    "yearlyInterestRate": 10,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 27
-  },
-  {
-    "originalLoanDate": "2021-05-02T10:12:45.293Z",
-    "originalLoanAmount": 28575,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1409,
-    "balanceAdjustments": [],
-    "paymentCutOff": 13
-  },
-  {
-    "originalLoanDate": "2021-05-02T10:12:45.293Z",
-    "originalLoanAmount": 28575,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 13
-  },
-  {
-    "originalLoanDate": "2019-09-23T02:38:05.236Z",
-    "originalLoanAmount": 65986,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1049,
-    "balanceAdjustments": [],
-    "paymentCutOff": 70
-  },
-  {
-    "originalLoanDate": "2019-09-23T02:38:05.236Z",
-    "originalLoanAmount": 65986,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 33
-  },
-  {
-    "originalLoanDate": "2021-01-15T10:58:43.009Z",
-    "originalLoanAmount": 46180,
-    "yearlyInterestRate": 10,
-    "terms": 15,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1545,
-    "balanceAdjustments": [],
-    "paymentCutOff": 36
-  },
-  {
-    "originalLoanDate": "2021-01-15T10:58:43.009Z",
-    "originalLoanAmount": 46180,
+    "originalLoanDate": "2021-08-06T15:11:12.184Z",
+    "originalLoanAmount": 66779,
     "yearlyInterestRate": 10,
     "terms": 15,
     "paymentSchedule": 12,
     "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 17
-  },
-  {
-    "originalLoanDate": "2022-03-19T05:38:43.776Z",
-    "originalLoanAmount": 50625,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 203,
-    "balanceAdjustments": [],
-    "paymentCutOff": 5
-  },
-  {
-    "originalLoanDate": "2022-03-19T05:38:43.776Z",
-    "originalLoanAmount": 50625,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 3
-  },
-  {
-    "originalLoanDate": "2019-09-24T23:05:09.177Z",
-    "originalLoanAmount": 89549,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1811,
-    "balanceAdjustments": [],
-    "paymentCutOff": 70
-  },
-  {
-    "originalLoanDate": "2019-09-24T23:05:09.177Z",
-    "originalLoanAmount": 89549,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 33
-  },
-  {
-    "originalLoanDate": "2020-04-28T03:28:22.015Z",
-    "originalLoanAmount": 17421,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 904,
-    "balanceAdjustments": [],
-    "paymentCutOff": 55
-  },
-  {
-    "originalLoanDate": "2020-04-28T03:28:22.015Z",
-    "originalLoanAmount": 17421,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 26
-  },
-  {
-    "originalLoanDate": "2022-01-01T15:59:44.766Z",
-    "originalLoanAmount": 46142,
-    "yearlyInterestRate": 6,
-    "terms": 5,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 562,
-    "balanceAdjustments": [],
-    "paymentCutOff": 9
-  },
-  {
-    "originalLoanDate": "2022-01-01T15:59:44.766Z",
-    "originalLoanAmount": 46142,
-    "yearlyInterestRate": 6,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 5
-  },
-  {
-    "originalLoanDate": "2021-01-05T20:37:24.589Z",
-    "originalLoanAmount": 35144,
-    "yearlyInterestRate": 2,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2323,
-    "balanceAdjustments": [],
-    "paymentCutOff": 17
-  },
-  {
-    "originalLoanDate": "2021-01-05T20:37:24.589Z",
-    "originalLoanAmount": 35144,
-    "yearlyInterestRate": 2,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 17
-  },
-  {
-    "originalLoanDate": "2020-11-26T11:17:13.577Z",
-    "originalLoanAmount": 29985,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 2141,
-    "balanceAdjustments": [],
-    "paymentCutOff": 80
-  },
-  {
-    "originalLoanDate": "2020-11-26T11:17:13.577Z",
-    "originalLoanAmount": 29985,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 19
-  },
-  {
-    "originalLoanDate": "2021-10-16T00:36:37.142Z",
-    "originalLoanAmount": 56260,
-    "yearlyInterestRate": 4,
-    "terms": 10,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2019,
-    "balanceAdjustments": [],
-    "paymentCutOff": 16
-  },
-  {
-    "originalLoanDate": "2021-10-16T00:36:37.142Z",
-    "originalLoanAmount": 56260,
-    "yearlyInterestRate": 4,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 8
-  },
-  {
-    "originalLoanDate": "2020-07-18T19:42:34.364Z",
-    "originalLoanAmount": 105205,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 878,
-    "balanceAdjustments": [],
-    "paymentCutOff": 45
-  },
-  {
-    "originalLoanDate": "2020-07-18T19:42:34.364Z",
-    "originalLoanAmount": 105205,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 23
-  },
-  {
-    "originalLoanDate": "2020-06-05T16:30:33.017Z",
-    "originalLoanAmount": 32046,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1289,
-    "balanceAdjustments": [],
-    "paymentCutOff": 51
-  },
-  {
-    "originalLoanDate": "2020-06-05T16:30:33.017Z",
-    "originalLoanAmount": 32046,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 24
-  },
-  {
-    "originalLoanDate": "2017-01-03T02:25:20.919Z",
-    "originalLoanAmount": 48729,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 64,
-    "balanceAdjustments": [],
-    "paymentCutOff": 280
-  },
-  {
-    "originalLoanDate": "2017-01-03T02:25:20.919Z",
-    "originalLoanAmount": 48729,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 65
-  },
-  {
-    "originalLoanDate": "2020-09-21T07:29:58.965Z",
-    "originalLoanAmount": 69108,
-    "yearlyInterestRate": 8,
-    "terms": 15,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 627,
-    "balanceAdjustments": [],
-    "paymentCutOff": 41
-  },
-  {
-    "originalLoanDate": "2020-09-21T07:29:58.965Z",
-    "originalLoanAmount": 69108,
-    "yearlyInterestRate": 8,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 21
-  },
-  {
-    "originalLoanDate": "2018-08-21T12:54:21.364Z",
-    "originalLoanAmount": 22910,
-    "yearlyInterestRate": 10,
-    "terms": 20,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 2533,
-    "balanceAdjustments": [],
-    "paymentCutOff": 197
-  },
-  {
-    "originalLoanDate": "2018-08-21T12:54:21.364Z",
-    "originalLoanAmount": 22910,
-    "yearlyInterestRate": 10,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 46
-  },
-  {
-    "originalLoanDate": "2022-04-07T01:09:28.936Z",
-    "originalLoanAmount": 20711,
-    "yearlyInterestRate": 4,
-    "terms": 20,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1053,
-    "balanceAdjustments": [],
-    "paymentCutOff": 3
-  },
-  {
-    "originalLoanDate": "2022-04-07T01:09:28.936Z",
-    "originalLoanAmount": 20711,
-    "yearlyInterestRate": 4,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 2
-  },
-  {
-    "originalLoanDate": "2019-02-15T16:40:43.004Z",
-    "originalLoanAmount": 60629,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2001,
-    "balanceAdjustments": [],
-    "paymentCutOff": 40
-  },
-  {
-    "originalLoanDate": "2019-02-15T16:40:43.004Z",
-    "originalLoanAmount": 60629,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 40
-  },
-  {
-    "originalLoanDate": "2017-05-17T14:59:38.230Z",
-    "originalLoanAmount": 10278,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1703,
-    "balanceAdjustments": [],
-    "paymentCutOff": 61
-  },
-  {
-    "originalLoanDate": "2017-05-17T14:59:38.230Z",
-    "originalLoanAmount": 10278,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 61
-  },
-  {
-    "originalLoanDate": "2021-11-04T22:36:33.817Z",
-    "originalLoanAmount": 109006,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2973,
-    "balanceAdjustments": [],
-    "paymentCutOff": 13
-  },
-  {
-    "originalLoanDate": "2021-11-04T22:36:33.817Z",
-    "originalLoanAmount": 109006,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 7
-  },
-  {
-    "originalLoanDate": "2021-07-02T15:34:06.481Z",
-    "originalLoanAmount": 20818,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1429,
-    "balanceAdjustments": [],
     "paymentCutOff": 11
   },
   {
-    "originalLoanDate": "2021-07-02T15:34:06.481Z",
-    "originalLoanAmount": 20818,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 11
-  },
-  {
-    "originalLoanDate": "2017-01-22T04:42:51.837Z",
-    "originalLoanAmount": 19020,
+    "originalLoanDate": "2017-06-15T02:42:57.618Z",
+    "originalLoanAmount": 95028,
     "yearlyInterestRate": 4,
-    "terms": 10,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1475,
-    "balanceAdjustments": [],
-    "paymentCutOff": 280
-  },
-  {
-    "originalLoanDate": "2017-01-22T04:42:51.837Z",
-    "originalLoanAmount": 19020,
-    "yearlyInterestRate": 4,
-    "terms": 10,
+    "terms": 7,
     "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 65
-  },
-  {
-    "originalLoanDate": "2017-03-17T20:26:18.288Z",
-    "originalLoanAmount": 83288,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 1304,
-    "balanceAdjustments": [],
-    "paymentCutOff": 125
-  },
-  {
-    "originalLoanDate": "2017-03-17T20:26:18.288Z",
-    "originalLoanAmount": 83288,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 63
-  },
-  {
-    "originalLoanDate": "2019-11-26T14:17:34.493Z",
-    "originalLoanAmount": 40796,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 576,
-    "balanceAdjustments": [],
-    "paymentCutOff": 31
-  },
-  {
-    "originalLoanDate": "2019-11-26T14:17:34.493Z",
-    "originalLoanAmount": 40796,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 31
-  },
-  {
-    "originalLoanDate": "2018-05-27T14:56:31.237Z",
-    "originalLoanAmount": 45336,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2902,
-    "balanceAdjustments": [],
-    "paymentCutOff": 97
-  },
-  {
-    "originalLoanDate": "2018-05-27T14:56:31.237Z",
-    "originalLoanAmount": 45336,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 49
-  },
-  {
-    "originalLoanDate": "2017-05-04T08:56:50.117Z",
-    "originalLoanAmount": 79971,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1835,
-    "balanceAdjustments": [],
+    "aditionalPrincipal": 1201,
     "paymentCutOff": 61
   },
   {
-    "originalLoanDate": "2017-05-04T08:56:50.117Z",
-    "originalLoanAmount": 79971,
-    "yearlyInterestRate": 8,
-    "terms": 20,
+    "originalLoanDate": "2017-06-15T02:42:57.618Z",
+    "originalLoanAmount": 95028,
+    "yearlyInterestRate": 4,
+    "terms": 7,
     "paymentSchedule": 12,
     "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
     "paymentCutOff": 61
   },
   {
-    "originalLoanDate": "2018-12-27T04:32:07.679Z",
-    "originalLoanAmount": 99147,
-    "yearlyInterestRate": 10,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 343,
-    "balanceAdjustments": [],
-    "paymentCutOff": 42
-  },
-  {
-    "originalLoanDate": "2018-12-27T04:32:07.679Z",
-    "originalLoanAmount": 99147,
-    "yearlyInterestRate": 10,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 42
-  },
-  {
-    "originalLoanDate": "2020-05-11T03:29:12.496Z",
-    "originalLoanAmount": 28282,
+    "originalLoanDate": "2020-03-31T22:56:51.471Z",
+    "originalLoanAmount": 81358,
     "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 282,
-    "balanceAdjustments": [],
-    "paymentCutOff": 25
-  },
-  {
-    "originalLoanDate": "2020-05-11T03:29:12.496Z",
-    "originalLoanAmount": 28282,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 25
-  },
-  {
-    "originalLoanDate": "2017-11-06T09:55:17.403Z",
-    "originalLoanAmount": 10659,
-    "yearlyInterestRate": 2,
-    "terms": 3,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 2654,
-    "balanceAdjustments": [],
-    "paymentCutOff": 236
-  },
-  {
-    "originalLoanDate": "2017-11-06T09:55:17.403Z",
-    "originalLoanAmount": 10659,
-    "yearlyInterestRate": 2,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 55
-  },
-  {
-    "originalLoanDate": "2019-05-06T07:52:50.090Z",
-    "originalLoanAmount": 42767,
-    "yearlyInterestRate": 2,
-    "terms": 5,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 943,
-    "balanceAdjustments": [],
-    "paymentCutOff": 79
-  },
-  {
-    "originalLoanDate": "2019-05-06T07:52:50.090Z",
-    "originalLoanAmount": 42767,
-    "yearlyInterestRate": 2,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 37
-  },
-  {
-    "originalLoanDate": "2020-07-07T21:15:02.223Z",
-    "originalLoanAmount": 37224,
-    "yearlyInterestRate": 10,
-    "terms": 20,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1697,
-    "balanceAdjustments": [],
-    "paymentCutOff": 49
-  },
-  {
-    "originalLoanDate": "2020-07-07T21:15:02.223Z",
-    "originalLoanAmount": 37224,
-    "yearlyInterestRate": 10,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 23
-  },
-  {
-    "originalLoanDate": "2020-02-20T15:34:28.775Z",
-    "originalLoanAmount": 84434,
-    "yearlyInterestRate": 10,
     "terms": 10,
     "paymentSchedule": 26,
-    "aditionalPrincipal": 1738,
-    "balanceAdjustments": [],
-    "paymentCutOff": 60
+    "aditionalPrincipal": 2527,
+    "paymentCutOff": 58
   },
   {
-    "originalLoanDate": "2020-02-20T15:34:28.775Z",
-    "originalLoanAmount": 84434,
-    "yearlyInterestRate": 10,
+    "originalLoanDate": "2020-03-31T22:56:51.471Z",
+    "originalLoanAmount": 81358,
+    "yearlyInterestRate": 6,
     "terms": 10,
     "paymentSchedule": 12,
     "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
     "paymentCutOff": 28
   },
   {
-    "originalLoanDate": "2020-01-03T07:06:09.527Z",
-    "originalLoanAmount": 35594,
-    "yearlyInterestRate": 4,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1058,
-    "balanceAdjustments": [],
-    "paymentCutOff": 29
-  },
-  {
-    "originalLoanDate": "2020-01-03T07:06:09.527Z",
-    "originalLoanAmount": 35594,
-    "yearlyInterestRate": 4,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 29
-  },
-  {
-    "originalLoanDate": "2020-05-23T01:38:20.294Z",
-    "originalLoanAmount": 84199,
-    "yearlyInterestRate": 2,
-    "terms": 15,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2430,
-    "balanceAdjustments": [],
-    "paymentCutOff": 53
-  },
-  {
-    "originalLoanDate": "2020-05-23T01:38:20.294Z",
-    "originalLoanAmount": 84199,
-    "yearlyInterestRate": 2,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 25
-  },
-  {
-    "originalLoanDate": "2019-02-21T05:05:19.882Z",
-    "originalLoanAmount": 61364,
-    "yearlyInterestRate": 2,
-    "terms": 10,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1861,
-    "balanceAdjustments": [],
-    "paymentCutOff": 86
-  },
-  {
-    "originalLoanDate": "2019-02-21T05:05:19.882Z",
-    "originalLoanAmount": 61364,
-    "yearlyInterestRate": 2,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 40
-  },
-  {
-    "originalLoanDate": "2020-03-05T21:08:03.090Z",
-    "originalLoanAmount": 80425,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 158,
-    "balanceAdjustments": [],
-    "paymentCutOff": 57
-  },
-  {
-    "originalLoanDate": "2020-03-05T21:08:03.090Z",
-    "originalLoanAmount": 80425,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 27
-  },
-  {
-    "originalLoanDate": "2020-09-27T00:44:48.089Z",
-    "originalLoanAmount": 73541,
-    "yearlyInterestRate": 2,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1831,
-    "balanceAdjustments": [],
-    "paymentCutOff": 21
-  },
-  {
-    "originalLoanDate": "2020-09-27T00:44:48.089Z",
-    "originalLoanAmount": 73541,
-    "yearlyInterestRate": 2,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 21
-  },
-  {
-    "originalLoanDate": "2017-01-09T01:26:17.472Z",
-    "originalLoanAmount": 64888,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2631,
-    "balanceAdjustments": [],
-    "paymentCutOff": 140
-  },
-  {
-    "originalLoanDate": "2017-01-09T01:26:17.472Z",
-    "originalLoanAmount": 64888,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 65
-  },
-  {
-    "originalLoanDate": "2021-11-04T03:38:41.573Z",
-    "originalLoanAmount": 103265,
-    "yearlyInterestRate": 6,
-    "terms": 15,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 147,
-    "balanceAdjustments": [],
-    "paymentCutOff": 27
-  },
-  {
-    "originalLoanDate": "2021-11-04T03:38:41.573Z",
-    "originalLoanAmount": 103265,
-    "yearlyInterestRate": 6,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 7
-  },
-  {
-    "originalLoanDate": "2020-12-28T04:08:43.070Z",
-    "originalLoanAmount": 85114,
-    "yearlyInterestRate": 2,
-    "terms": 10,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2060,
-    "balanceAdjustments": [],
-    "paymentCutOff": 38
-  },
-  {
-    "originalLoanDate": "2020-12-28T04:08:43.070Z",
-    "originalLoanAmount": 85114,
-    "yearlyInterestRate": 2,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 18
-  },
-  {
-    "originalLoanDate": "2019-10-02T10:44:34.372Z",
-    "originalLoanAmount": 68107,
-    "yearlyInterestRate": 8,
-    "terms": 30,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 1082,
-    "balanceAdjustments": [],
-    "paymentCutOff": 63
-  },
-  {
-    "originalLoanDate": "2019-10-02T10:44:34.372Z",
-    "originalLoanAmount": 68107,
-    "yearlyInterestRate": 8,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 32
-  },
-  {
-    "originalLoanDate": "2019-11-19T05:00:00.481Z",
-    "originalLoanAmount": 62788,
-    "yearlyInterestRate": 4,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2653,
-    "balanceAdjustments": [],
-    "paymentCutOff": 31
-  },
-  {
-    "originalLoanDate": "2019-11-19T05:00:00.481Z",
-    "originalLoanAmount": 62788,
-    "yearlyInterestRate": 4,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 31
-  },
-  {
-    "originalLoanDate": "2018-06-08T05:07:14.471Z",
-    "originalLoanAmount": 96101,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2231,
-    "balanceAdjustments": [],
-    "paymentCutOff": 48
-  },
-  {
-    "originalLoanDate": "2018-06-08T05:07:14.471Z",
-    "originalLoanAmount": 96101,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 48
-  },
-  {
-    "originalLoanDate": "2018-09-07T11:58:00.363Z",
-    "originalLoanAmount": 22403,
-    "yearlyInterestRate": 2,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2681,
-    "balanceAdjustments": [],
-    "paymentCutOff": 45
-  },
-  {
-    "originalLoanDate": "2018-09-07T11:58:00.363Z",
-    "originalLoanAmount": 22403,
-    "yearlyInterestRate": 2,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 45
-  },
-  {
-    "originalLoanDate": "2020-05-03T02:34:38.825Z",
-    "originalLoanAmount": 37967,
-    "yearlyInterestRate": 8,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2209,
-    "balanceAdjustments": [],
-    "paymentCutOff": 25
-  },
-  {
-    "originalLoanDate": "2020-05-03T02:34:38.825Z",
-    "originalLoanAmount": 37967,
-    "yearlyInterestRate": 8,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 25
-  },
-  {
-    "originalLoanDate": "2021-07-25T19:22:58.769Z",
-    "originalLoanAmount": 16875,
-    "yearlyInterestRate": 8,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 715,
-    "balanceAdjustments": [],
-    "paymentCutOff": 11
-  },
-  {
-    "originalLoanDate": "2021-07-25T19:22:58.769Z",
-    "originalLoanAmount": 16875,
-    "yearlyInterestRate": 8,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 11
-  },
-  {
-    "originalLoanDate": "2021-04-14T23:08:17.574Z",
-    "originalLoanAmount": 106926,
-    "yearlyInterestRate": 4,
-    "terms": 3,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1525,
-    "balanceAdjustments": [],
-    "paymentCutOff": 29
-  },
-  {
-    "originalLoanDate": "2021-04-14T23:08:17.574Z",
-    "originalLoanAmount": 106926,
-    "yearlyInterestRate": 4,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 14
-  },
-  {
-    "originalLoanDate": "2019-04-15T18:23:44.580Z",
-    "originalLoanAmount": 60873,
-    "yearlyInterestRate": 2,
-    "terms": 7,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2502,
-    "balanceAdjustments": [],
-    "paymentCutOff": 75
-  },
-  {
-    "originalLoanDate": "2019-04-15T18:23:44.580Z",
-    "originalLoanAmount": 60873,
-    "yearlyInterestRate": 2,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 38
-  },
-  {
-    "originalLoanDate": "2019-05-09T17:32:39.066Z",
-    "originalLoanAmount": 101817,
-    "yearlyInterestRate": 10,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1208,
-    "balanceAdjustments": [],
-    "paymentCutOff": 37
-  },
-  {
-    "originalLoanDate": "2019-05-09T17:32:39.066Z",
-    "originalLoanAmount": 101817,
-    "yearlyInterestRate": 10,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 37
-  },
-  {
-    "originalLoanDate": "2021-06-10T13:48:55.887Z",
-    "originalLoanAmount": 52498,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 2903,
-    "balanceAdjustments": [],
-    "paymentCutOff": 49
-  },
-  {
-    "originalLoanDate": "2021-06-10T13:48:55.887Z",
-    "originalLoanAmount": 52498,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 12
-  },
-  {
-    "originalLoanDate": "2018-03-24T09:46:11.890Z",
-    "originalLoanAmount": 65557,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2760,
-    "balanceAdjustments": [],
-    "paymentCutOff": 51
-  },
-  {
-    "originalLoanDate": "2018-03-24T09:46:11.890Z",
-    "originalLoanAmount": 65557,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 51
-  },
-  {
-    "originalLoanDate": "2017-08-03T15:18:37.682Z",
-    "originalLoanAmount": 107545,
+    "originalLoanDate": "2021-03-24T20:38:33.941Z",
+    "originalLoanAmount": 69001,
     "yearlyInterestRate": 6,
     "terms": 7,
     "paymentSchedule": 52,
-    "aditionalPrincipal": 1629,
-    "balanceAdjustments": [],
-    "paymentCutOff": 249
-  },
-  {
-    "originalLoanDate": "2017-08-03T15:18:37.682Z",
-    "originalLoanAmount": 107545,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 58
-  },
-  {
-    "originalLoanDate": "2017-07-01T09:33:49.211Z",
-    "originalLoanAmount": 75889,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 700,
-    "balanceAdjustments": [],
-    "paymentCutOff": 254
-  },
-  {
-    "originalLoanDate": "2017-07-01T09:33:49.211Z",
-    "originalLoanAmount": 75889,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 59
-  },
-  {
-    "originalLoanDate": "2021-04-09T15:03:41.469Z",
-    "originalLoanAmount": 37708,
-    "yearlyInterestRate": 4,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1707,
-    "balanceAdjustments": [],
-    "paymentCutOff": 14
-  },
-  {
-    "originalLoanDate": "2021-04-09T15:03:41.469Z",
-    "originalLoanAmount": 37708,
-    "yearlyInterestRate": 4,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 14
-  },
-  {
-    "originalLoanDate": "2019-04-17T08:02:48.887Z",
-    "originalLoanAmount": 20877,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 728,
-    "balanceAdjustments": [],
-    "paymentCutOff": 163
-  },
-  {
-    "originalLoanDate": "2019-04-17T08:02:48.887Z",
-    "originalLoanAmount": 20877,
-    "yearlyInterestRate": 6,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 38
-  },
-  {
-    "originalLoanDate": "2017-01-24T23:36:19.361Z",
-    "originalLoanAmount": 103509,
-    "yearlyInterestRate": 2,
-    "terms": 7,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2790,
-    "balanceAdjustments": [],
-    "paymentCutOff": 129
-  },
-  {
-    "originalLoanDate": "2017-01-24T23:36:19.361Z",
-    "originalLoanAmount": 103509,
-    "yearlyInterestRate": 2,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 65
-  },
-  {
-    "originalLoanDate": "2017-05-10T18:11:49.447Z",
-    "originalLoanAmount": 64514,
-    "yearlyInterestRate": 8,
-    "terms": 10,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2204,
-    "balanceAdjustments": [],
-    "paymentCutOff": 121
-  },
-  {
-    "originalLoanDate": "2017-05-10T18:11:49.447Z",
-    "originalLoanAmount": 64514,
-    "yearlyInterestRate": 8,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 61
-  },
-  {
-    "originalLoanDate": "2020-08-04T11:02:56.978Z",
-    "originalLoanAmount": 96657,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 923,
-    "balanceAdjustments": [],
-    "paymentCutOff": 46
-  },
-  {
-    "originalLoanDate": "2020-08-04T11:02:56.978Z",
-    "originalLoanAmount": 96657,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 22
-  },
-  {
-    "originalLoanDate": "2022-06-12T14:59:14.079Z",
-    "originalLoanAmount": 98939,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2412,
-    "balanceAdjustments": [],
-    "paymentCutOff": 0
-  },
-  {
-    "originalLoanDate": "2022-06-12T14:59:14.079Z",
-    "originalLoanAmount": 98939,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 0
-  },
-  {
-    "originalLoanDate": "2019-09-18T00:55:20.109Z",
-    "originalLoanAmount": 91249,
-    "yearlyInterestRate": 2,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2802,
-    "balanceAdjustments": [],
-    "paymentCutOff": 33
-  },
-  {
-    "originalLoanDate": "2019-09-18T00:55:20.109Z",
-    "originalLoanAmount": 91249,
-    "yearlyInterestRate": 2,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 33
-  },
-  {
-    "originalLoanDate": "2018-09-06T02:41:00.517Z",
-    "originalLoanAmount": 31747,
-    "yearlyInterestRate": 2,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1896,
-    "balanceAdjustments": [],
-    "paymentCutOff": 45
-  },
-  {
-    "originalLoanDate": "2018-09-06T02:41:00.517Z",
-    "originalLoanAmount": 31747,
-    "yearlyInterestRate": 2,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 45
-  },
-  {
-    "originalLoanDate": "2019-04-18T15:34:08.188Z",
-    "originalLoanAmount": 24735,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1906,
-    "balanceAdjustments": [],
-    "paymentCutOff": 163
-  },
-  {
-    "originalLoanDate": "2019-04-18T15:34:08.188Z",
-    "originalLoanAmount": 24735,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 38
-  },
-  {
-    "originalLoanDate": "2020-05-18T23:12:01.026Z",
-    "originalLoanAmount": 69463,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 891,
-    "balanceAdjustments": [],
-    "paymentCutOff": 25
-  },
-  {
-    "originalLoanDate": "2020-05-18T23:12:01.026Z",
-    "originalLoanAmount": 69463,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 25
-  },
-  {
-    "originalLoanDate": "2018-12-26T11:41:36.828Z",
-    "originalLoanAmount": 24579,
-    "yearlyInterestRate": 10,
-    "terms": 15,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 581,
-    "balanceAdjustments": [],
-    "paymentCutOff": 83
-  },
-  {
-    "originalLoanDate": "2018-12-26T11:41:36.828Z",
-    "originalLoanAmount": 24579,
-    "yearlyInterestRate": 10,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 42
-  },
-  {
-    "originalLoanDate": "2018-09-07T12:37:01.195Z",
-    "originalLoanAmount": 81984,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 438,
-    "balanceAdjustments": [],
-    "paymentCutOff": 193
-  },
-  {
-    "originalLoanDate": "2018-09-07T12:37:01.195Z",
-    "originalLoanAmount": 81984,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 45
-  },
-  {
-    "originalLoanDate": "2019-03-12T12:39:20.139Z",
-    "originalLoanAmount": 103329,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1912,
-    "balanceAdjustments": [],
-    "paymentCutOff": 84
-  },
-  {
-    "originalLoanDate": "2019-03-12T12:39:20.139Z",
-    "originalLoanAmount": 103329,
-    "yearlyInterestRate": 8,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 39
-  },
-  {
-    "originalLoanDate": "2018-08-01T20:12:52.107Z",
-    "originalLoanAmount": 25313,
-    "yearlyInterestRate": 10,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 402,
-    "balanceAdjustments": [],
-    "paymentCutOff": 46
-  },
-  {
-    "originalLoanDate": "2018-08-01T20:12:52.107Z",
-    "originalLoanAmount": 25313,
-    "yearlyInterestRate": 10,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 46
-  },
-  {
-    "originalLoanDate": "2021-11-20T03:40:03.751Z",
-    "originalLoanAmount": 99070,
-    "yearlyInterestRate": 10,
-    "terms": 3,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1360,
-    "balanceAdjustments": [],
-    "paymentCutOff": 27
-  },
-  {
-    "originalLoanDate": "2021-11-20T03:40:03.751Z",
-    "originalLoanAmount": 99070,
-    "yearlyInterestRate": 10,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 7
-  },
-  {
-    "originalLoanDate": "2018-08-30T22:10:57.022Z",
-    "originalLoanAmount": 29019,
-    "yearlyInterestRate": 10,
-    "terms": 3,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1260,
-    "balanceAdjustments": [],
-    "paymentCutOff": 197
-  },
-  {
-    "originalLoanDate": "2018-08-30T22:10:57.022Z",
-    "originalLoanAmount": 29019,
-    "yearlyInterestRate": 10,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 46
-  },
-  {
-    "originalLoanDate": "2017-11-30T09:29:48.088Z",
-    "originalLoanAmount": 106211,
-    "yearlyInterestRate": 8,
-    "terms": 15,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 429,
-    "balanceAdjustments": [],
-    "paymentCutOff": 109
-  },
-  {
-    "originalLoanDate": "2017-11-30T09:29:48.088Z",
-    "originalLoanAmount": 106211,
-    "yearlyInterestRate": 8,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 55
-  },
-  {
-    "originalLoanDate": "2020-10-10T03:38:30.638Z",
-    "originalLoanAmount": 75857,
-    "yearlyInterestRate": 2,
-    "terms": 15,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1221,
-    "balanceAdjustments": [],
-    "paymentCutOff": 42
-  },
-  {
-    "originalLoanDate": "2020-10-10T03:38:30.638Z",
-    "originalLoanAmount": 75857,
-    "yearlyInterestRate": 2,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 20
-  },
-  {
-    "originalLoanDate": "2017-06-26T22:30:41.927Z",
-    "originalLoanAmount": 53237,
-    "yearlyInterestRate": 10,
-    "terms": 7,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 453,
-    "balanceAdjustments": [],
-    "paymentCutOff": 119
-  },
-  {
-    "originalLoanDate": "2017-06-26T22:30:41.927Z",
-    "originalLoanAmount": 53237,
-    "yearlyInterestRate": 10,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 60
-  },
-  {
-    "originalLoanDate": "2022-05-29T19:27:39.332Z",
-    "originalLoanAmount": 86779,
-    "yearlyInterestRate": 4,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2186,
-    "balanceAdjustments": [],
-    "paymentCutOff": 1
-  },
-  {
-    "originalLoanDate": "2022-05-29T19:27:39.332Z",
-    "originalLoanAmount": 86779,
-    "yearlyInterestRate": 4,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 1
-  },
-  {
-    "originalLoanDate": "2019-02-22T09:16:57.848Z",
-    "originalLoanAmount": 15985,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 432,
-    "balanceAdjustments": [],
-    "paymentCutOff": 79
-  },
-  {
-    "originalLoanDate": "2019-02-22T09:16:57.848Z",
-    "originalLoanAmount": 15985,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 40
-  },
-  {
-    "originalLoanDate": "2019-02-13T15:23:57.901Z",
-    "originalLoanAmount": 70136,
-    "yearlyInterestRate": 10,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1828,
-    "balanceAdjustments": [],
-    "paymentCutOff": 40
-  },
-  {
-    "originalLoanDate": "2019-02-13T15:23:57.901Z",
-    "originalLoanAmount": 70136,
-    "yearlyInterestRate": 10,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 40
-  },
-  {
-    "originalLoanDate": "2021-09-05T03:13:06.228Z",
-    "originalLoanAmount": 19746,
-    "yearlyInterestRate": 10,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 681,
-    "balanceAdjustments": [],
-    "paymentCutOff": 9
-  },
-  {
-    "originalLoanDate": "2021-09-05T03:13:06.228Z",
-    "originalLoanAmount": 19746,
-    "yearlyInterestRate": 10,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 9
-  },
-  {
-    "originalLoanDate": "2021-07-20T17:07:32.681Z",
-    "originalLoanAmount": 60126,
-    "yearlyInterestRate": 6,
-    "terms": 3,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 1124,
-    "balanceAdjustments": [],
-    "paymentCutOff": 21
-  },
-  {
-    "originalLoanDate": "2021-07-20T17:07:32.681Z",
-    "originalLoanAmount": 60126,
-    "yearlyInterestRate": 6,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 11
-  },
-  {
-    "originalLoanDate": "2017-08-10T02:46:01.455Z",
-    "originalLoanAmount": 74154,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1325,
-    "balanceAdjustments": [],
-    "paymentCutOff": 249
-  },
-  {
-    "originalLoanDate": "2017-08-10T02:46:01.455Z",
-    "originalLoanAmount": 74154,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 58
-  },
-  {
-    "originalLoanDate": "2018-10-08T18:50:22.743Z",
-    "originalLoanAmount": 11946,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 1039,
-    "balanceAdjustments": [],
-    "paymentCutOff": 87
-  },
-  {
-    "originalLoanDate": "2018-10-08T18:50:22.743Z",
-    "originalLoanAmount": 11946,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 44
-  },
-  {
-    "originalLoanDate": "2021-04-16T19:27:56.973Z",
-    "originalLoanAmount": 49484,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2325,
-    "balanceAdjustments": [],
-    "paymentCutOff": 27
-  },
-  {
-    "originalLoanDate": "2021-04-16T19:27:56.973Z",
-    "originalLoanAmount": 49484,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 14
-  },
-  {
-    "originalLoanDate": "2021-10-27T00:29:05.980Z",
-    "originalLoanAmount": 24765,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1465,
-    "balanceAdjustments": [],
-    "paymentCutOff": 16
-  },
-  {
-    "originalLoanDate": "2021-10-27T00:29:05.980Z",
-    "originalLoanAmount": 24765,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 8
-  },
-  {
-    "originalLoanDate": "2022-02-16T04:58:22.866Z",
-    "originalLoanAmount": 93989,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 288,
-    "balanceAdjustments": [],
-    "paymentCutOff": 7
-  },
-  {
-    "originalLoanDate": "2022-02-16T04:58:22.866Z",
-    "originalLoanAmount": 93989,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 4
-  },
-  {
-    "originalLoanDate": "2021-03-13T09:27:12.215Z",
-    "originalLoanAmount": 71595,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2054,
-    "balanceAdjustments": [],
-    "paymentCutOff": 31
-  },
-  {
-    "originalLoanDate": "2021-03-13T09:27:12.215Z",
-    "originalLoanAmount": 71595,
-    "yearlyInterestRate": 6,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 15
-  },
-  {
-    "originalLoanDate": "2022-01-07T17:20:41.001Z",
-    "originalLoanAmount": 64666,
-    "yearlyInterestRate": 10,
-    "terms": 7,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2623,
-    "balanceAdjustments": [],
-    "paymentCutOff": 9
-  },
-  {
-    "originalLoanDate": "2022-01-07T17:20:41.001Z",
-    "originalLoanAmount": 64666,
-    "yearlyInterestRate": 10,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 5
-  },
-  {
-    "originalLoanDate": "2020-01-06T22:57:13.509Z",
-    "originalLoanAmount": 60641,
-    "yearlyInterestRate": 6,
-    "terms": 3,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2065,
-    "balanceAdjustments": [],
-    "paymentCutOff": 57
-  },
-  {
-    "originalLoanDate": "2020-01-06T22:57:13.509Z",
-    "originalLoanAmount": 60641,
-    "yearlyInterestRate": 6,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 29
-  },
-  {
-    "originalLoanDate": "2018-04-21T07:06:58.845Z",
-    "originalLoanAmount": 42936,
-    "yearlyInterestRate": 8,
-    "terms": 30,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1456,
-    "balanceAdjustments": [],
-    "paymentCutOff": 107
-  },
-  {
-    "originalLoanDate": "2018-04-21T07:06:58.845Z",
-    "originalLoanAmount": 42936,
-    "yearlyInterestRate": 8,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 50
-  },
-  {
-    "originalLoanDate": "2022-01-05T08:10:27.803Z",
-    "originalLoanAmount": 51431,
-    "yearlyInterestRate": 10,
-    "terms": 5,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1510,
-    "balanceAdjustments": [],
-    "paymentCutOff": 19
-  },
-  {
-    "originalLoanDate": "2022-01-05T08:10:27.803Z",
-    "originalLoanAmount": 51431,
-    "yearlyInterestRate": 10,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 5
-  },
-  {
-    "originalLoanDate": "2017-08-27T09:43:30.186Z",
-    "originalLoanAmount": 81741,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1731,
-    "balanceAdjustments": [],
-    "paymentCutOff": 58
-  },
-  {
-    "originalLoanDate": "2017-08-27T09:43:30.186Z",
-    "originalLoanAmount": 81741,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 58
-  },
-  {
-    "originalLoanDate": "2020-09-17T18:42:52.896Z",
-    "originalLoanAmount": 81066,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 225,
-    "balanceAdjustments": [],
-    "paymentCutOff": 44
-  },
-  {
-    "originalLoanDate": "2020-09-17T18:42:52.896Z",
-    "originalLoanAmount": 81066,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 21
-  },
-  {
-    "originalLoanDate": "2017-03-19T02:14:27.903Z",
-    "originalLoanAmount": 59970,
-    "yearlyInterestRate": 2,
-    "terms": 20,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 2823,
-    "balanceAdjustments": [],
-    "paymentCutOff": 125
-  },
-  {
-    "originalLoanDate": "2017-03-19T02:14:27.903Z",
-    "originalLoanAmount": 59970,
-    "yearlyInterestRate": 2,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 63
-  },
-  {
-    "originalLoanDate": "2018-08-10T22:31:49.524Z",
-    "originalLoanAmount": 52028,
-    "yearlyInterestRate": 10,
-    "terms": 10,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1421,
-    "balanceAdjustments": [],
-    "paymentCutOff": 99
-  },
-  {
-    "originalLoanDate": "2018-08-10T22:31:49.524Z",
-    "originalLoanAmount": 52028,
-    "yearlyInterestRate": 10,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 46
-  },
-  {
-    "originalLoanDate": "2018-01-22T00:36:16.127Z",
-    "originalLoanAmount": 89489,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1831,
-    "balanceAdjustments": [],
-    "paymentCutOff": 53
-  },
-  {
-    "originalLoanDate": "2018-01-22T00:36:16.127Z",
-    "originalLoanAmount": 89489,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 53
-  },
-  {
-    "originalLoanDate": "2018-06-08T13:17:43.294Z",
-    "originalLoanAmount": 78281,
-    "yearlyInterestRate": 10,
-    "terms": 20,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 1513,
-    "balanceAdjustments": [],
-    "paymentCutOff": 95
-  },
-  {
-    "originalLoanDate": "2018-06-08T13:17:43.294Z",
-    "originalLoanAmount": 78281,
-    "yearlyInterestRate": 10,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 48
-  },
-  {
-    "originalLoanDate": "2018-01-12T13:47:22.499Z",
-    "originalLoanAmount": 32118,
-    "yearlyInterestRate": 6,
-    "terms": 5,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 1605,
-    "balanceAdjustments": [],
-    "paymentCutOff": 105
-  },
-  {
-    "originalLoanDate": "2018-01-12T13:47:22.499Z",
-    "originalLoanAmount": 32118,
-    "yearlyInterestRate": 6,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 53
-  },
-  {
-    "originalLoanDate": "2017-05-24T18:05:29.302Z",
-    "originalLoanAmount": 19227,
-    "yearlyInterestRate": 2,
-    "terms": 3,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1190,
-    "balanceAdjustments": [],
-    "paymentCutOff": 263
-  },
-  {
-    "originalLoanDate": "2017-05-24T18:05:29.302Z",
-    "originalLoanAmount": 19227,
-    "yearlyInterestRate": 2,
-    "terms": 3,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 61
-  },
-  {
-    "originalLoanDate": "2019-01-27T19:36:52.118Z",
-    "originalLoanAmount": 34620,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 134,
-    "balanceAdjustments": [],
-    "paymentCutOff": 176
-  },
-  {
-    "originalLoanDate": "2019-01-27T19:36:52.118Z",
-    "originalLoanAmount": 34620,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 41
-  },
-  {
-    "originalLoanDate": "2018-04-07T15:41:07.837Z",
-    "originalLoanAmount": 76799,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1794,
-    "balanceAdjustments": [],
-    "paymentCutOff": 107
-  },
-  {
-    "originalLoanDate": "2018-04-07T15:41:07.837Z",
-    "originalLoanAmount": 76799,
-    "yearlyInterestRate": 6,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 50
-  },
-  {
-    "originalLoanDate": "2021-09-24T15:01:07.692Z",
-    "originalLoanAmount": 20864,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 756,
-    "balanceAdjustments": [],
-    "paymentCutOff": 9
-  },
-  {
-    "originalLoanDate": "2021-09-24T15:01:07.692Z",
-    "originalLoanAmount": 20864,
-    "yearlyInterestRate": 4,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 9
-  },
-  {
-    "originalLoanDate": "2018-04-04T13:46:55.205Z",
-    "originalLoanAmount": 97294,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 428,
-    "balanceAdjustments": [],
-    "paymentCutOff": 99
-  },
-  {
-    "originalLoanDate": "2018-04-04T13:46:55.205Z",
-    "originalLoanAmount": 97294,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 50
-  },
-  {
-    "originalLoanDate": "2017-02-26T14:38:22.393Z",
-    "originalLoanAmount": 82502,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 343,
-    "balanceAdjustments": [],
-    "paymentCutOff": 127
-  },
-  {
-    "originalLoanDate": "2017-02-26T14:38:22.393Z",
-    "originalLoanAmount": 82502,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
+    "aditionalPrincipal": 1031,
     "paymentCutOff": 64
   },
   {
-    "originalLoanDate": "2019-12-27T13:29:34.600Z",
-    "originalLoanAmount": 79483,
+    "originalLoanDate": "2021-03-24T20:38:33.941Z",
+    "originalLoanAmount": 69001,
     "yearlyInterestRate": 6,
-    "terms": 5,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 757,
-    "balanceAdjustments": [],
-    "paymentCutOff": 59
-  },
-  {
-    "originalLoanDate": "2019-12-27T13:29:34.600Z",
-    "originalLoanAmount": 79483,
-    "yearlyInterestRate": 6,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 30
-  },
-  {
-    "originalLoanDate": "2017-04-28T09:57:41.753Z",
-    "originalLoanAmount": 49966,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 1411,
-    "balanceAdjustments": [],
-    "paymentCutOff": 133
-  },
-  {
-    "originalLoanDate": "2017-04-28T09:57:41.753Z",
-    "originalLoanAmount": 49966,
-    "yearlyInterestRate": 4,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 62
-  },
-  {
-    "originalLoanDate": "2020-04-28T19:49:42.147Z",
-    "originalLoanAmount": 34092,
-    "yearlyInterestRate": 2,
-    "terms": 7,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 832,
-    "balanceAdjustments": [],
-    "paymentCutOff": 110
-  },
-  {
-    "originalLoanDate": "2020-04-28T19:49:42.147Z",
-    "originalLoanAmount": 34092,
-    "yearlyInterestRate": 2,
     "terms": 7,
     "paymentSchedule": 12,
     "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 26
+    "paymentCutOff": 16
   },
   {
-    "originalLoanDate": "2017-06-23T12:37:31.830Z",
-    "originalLoanAmount": 47302,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 1642,
-    "balanceAdjustments": [],
-    "paymentCutOff": 60
-  },
-  {
-    "originalLoanDate": "2017-06-23T12:37:31.830Z",
-    "originalLoanAmount": 47302,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 60
-  },
-  {
-    "originalLoanDate": "2021-03-16T10:46:03.097Z",
-    "originalLoanAmount": 94461,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 24,
-    "aditionalPrincipal": 1289,
-    "balanceAdjustments": [],
-    "paymentCutOff": 29
-  },
-  {
-    "originalLoanDate": "2021-03-16T10:46:03.097Z",
-    "originalLoanAmount": 94461,
-    "yearlyInterestRate": 10,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 15
-  },
-  {
-    "originalLoanDate": "2018-12-03T19:35:54.343Z",
-    "originalLoanAmount": 41524,
-    "yearlyInterestRate": 8,
-    "terms": 15,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 1192,
-    "balanceAdjustments": [],
-    "paymentCutOff": 180
-  },
-  {
-    "originalLoanDate": "2018-12-03T19:35:54.343Z",
-    "originalLoanAmount": 41524,
-    "yearlyInterestRate": 8,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 42
-  },
-  {
-    "originalLoanDate": "2021-12-18T14:31:29.283Z",
-    "originalLoanAmount": 39801,
-    "yearlyInterestRate": 10,
-    "terms": 20,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 2658,
-    "balanceAdjustments": [],
-    "paymentCutOff": 23
-  },
-  {
-    "originalLoanDate": "2021-12-18T14:31:29.283Z",
-    "originalLoanAmount": 39801,
-    "yearlyInterestRate": 10,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 6
-  },
-  {
-    "originalLoanDate": "2018-12-27T07:57:01.267Z",
-    "originalLoanAmount": 109055,
+    "originalLoanDate": "2019-09-25T06:41:39.168Z",
+    "originalLoanAmount": 25620,
     "yearlyInterestRate": 4,
-    "terms": 5,
+    "terms": 3,
     "paymentSchedule": 26,
-    "aditionalPrincipal": 789,
-    "balanceAdjustments": [],
-    "paymentCutOff": 90
+    "aditionalPrincipal": 605,
+    "paymentCutOff": 71
   },
   {
-    "originalLoanDate": "2018-12-27T07:57:01.267Z",
-    "originalLoanAmount": 109055,
+    "originalLoanDate": "2019-09-25T06:41:39.168Z",
+    "originalLoanAmount": 25620,
     "yearlyInterestRate": 4,
-    "terms": 5,
+    "terms": 3,
     "paymentSchedule": 12,
     "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 42
-  },
-  {
-    "originalLoanDate": "2017-05-04T12:42:03.169Z",
-    "originalLoanAmount": 47265,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 52,
-    "aditionalPrincipal": 2812,
-    "balanceAdjustments": [],
-    "paymentCutOff": 263
-  },
-  {
-    "originalLoanDate": "2017-05-04T12:42:03.169Z",
-    "originalLoanAmount": 47265,
-    "yearlyInterestRate": 4,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 61
-  },
-  {
-    "originalLoanDate": "2020-01-10T10:14:42.357Z",
-    "originalLoanAmount": 34580,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2791,
-    "balanceAdjustments": [],
-    "paymentCutOff": 62
-  },
-  {
-    "originalLoanDate": "2020-01-10T10:14:42.357Z",
-    "originalLoanAmount": 34580,
-    "yearlyInterestRate": 6,
-    "terms": 10,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 29
-  },
-  {
-    "originalLoanDate": "2019-09-28T18:41:28.917Z",
-    "originalLoanAmount": 28521,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2498,
-    "balanceAdjustments": [],
-    "paymentCutOff": 70
-  },
-  {
-    "originalLoanDate": "2019-09-28T18:41:28.917Z",
-    "originalLoanAmount": 28521,
-    "yearlyInterestRate": 8,
-    "terms": 20,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 33
-  },
-  {
-    "originalLoanDate": "2018-10-17T20:51:54.040Z",
-    "originalLoanAmount": 42387,
-    "yearlyInterestRate": 4,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2152,
-    "balanceAdjustments": [],
-    "paymentCutOff": 44
-  },
-  {
-    "originalLoanDate": "2018-10-17T20:51:54.040Z",
-    "originalLoanAmount": 42387,
-    "yearlyInterestRate": 4,
-    "terms": 30,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 44
-  },
-  {
-    "originalLoanDate": "2019-08-13T22:54:50.496Z",
-    "originalLoanAmount": 99669,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2500,
-    "balanceAdjustments": [],
-    "paymentCutOff": 73
-  },
-  {
-    "originalLoanDate": "2019-08-13T22:54:50.496Z",
-    "originalLoanAmount": 99669,
-    "yearlyInterestRate": 8,
-    "terms": 5,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
     "paymentCutOff": 34
   },
   {
-    "originalLoanDate": "2021-01-14T04:09:49.574Z",
-    "originalLoanAmount": 109621,
-    "yearlyInterestRate": 8,
-    "terms": 7,
-    "paymentSchedule": 26,
-    "aditionalPrincipal": 2929,
-    "balanceAdjustments": [],
-    "paymentCutOff": 36
+    "originalLoanDate": "2019-01-22T16:20:20.571Z",
+    "originalLoanAmount": 106621,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 956,
+    "paymentCutOff": 82
   },
   {
-    "originalLoanDate": "2021-01-14T04:09:49.574Z",
-    "originalLoanAmount": 109621,
+    "originalLoanDate": "2019-01-22T16:20:20.571Z",
+    "originalLoanAmount": 106621,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 42
+  },
+  {
+    "originalLoanDate": "2020-08-08T19:43:18.259Z",
+    "originalLoanAmount": 13447,
+    "yearlyInterestRate": 10,
+    "terms": 15,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2839,
+    "paymentCutOff": 94
+  },
+  {
+    "originalLoanDate": "2020-08-08T19:43:18.259Z",
+    "originalLoanAmount": 13447,
+    "yearlyInterestRate": 10,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 23
+  },
+  {
+    "originalLoanDate": "2020-08-11T09:49:18.321Z",
+    "originalLoanAmount": 55715,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1433,
+    "paymentCutOff": 44
+  },
+  {
+    "originalLoanDate": "2020-08-11T09:49:18.321Z",
+    "originalLoanAmount": 55715,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 23
+  },
+  {
+    "originalLoanDate": "2021-07-06T06:05:50.321Z",
+    "originalLoanAmount": 67604,
     "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 661,
+    "paymentCutOff": 46
+  },
+  {
+    "originalLoanDate": "2021-07-06T06:05:50.321Z",
+    "originalLoanAmount": 67604,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 12
+  },
+  {
+    "originalLoanDate": "2018-12-30T20:40:10.452Z",
+    "originalLoanAmount": 86712,
+    "yearlyInterestRate": 4,
+    "terms": 30,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2746,
+    "paymentCutOff": 91
+  },
+  {
+    "originalLoanDate": "2018-12-30T20:40:10.452Z",
+    "originalLoanAmount": 86712,
+    "yearlyInterestRate": 4,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 43
+  },
+  {
+    "originalLoanDate": "2018-08-22T23:52:54.050Z",
+    "originalLoanAmount": 98601,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 427,
+    "paymentCutOff": 100
+  },
+  {
+    "originalLoanDate": "2018-08-22T23:52:54.050Z",
+    "originalLoanAmount": 98601,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 47
+  },
+  {
+    "originalLoanDate": "2020-03-27T17:11:04.957Z",
+    "originalLoanAmount": 71953,
+    "yearlyInterestRate": 6,
+    "terms": 7,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 572,
+    "paymentCutOff": 54
+  },
+  {
+    "originalLoanDate": "2020-03-27T17:11:04.957Z",
+    "originalLoanAmount": 71953,
+    "yearlyInterestRate": 6,
     "terms": 7,
     "paymentSchedule": 12,
     "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
+    "paymentCutOff": 28
+  },
+  {
+    "originalLoanDate": "2019-08-20T06:11:29.337Z",
+    "originalLoanAmount": 76836,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2533,
+    "paymentCutOff": 146
+  },
+  {
+    "originalLoanDate": "2019-08-20T06:11:29.337Z",
+    "originalLoanAmount": 76836,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 35
+  },
+  {
+    "originalLoanDate": "2018-05-10T11:09:45.400Z",
+    "originalLoanAmount": 84791,
+    "yearlyInterestRate": 10,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 855,
+    "paymentCutOff": 98
+  },
+  {
+    "originalLoanDate": "2018-05-10T11:09:45.400Z",
+    "originalLoanAmount": 84791,
+    "yearlyInterestRate": 10,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 50
+  },
+  {
+    "originalLoanDate": "2018-11-21T12:01:59.015Z",
+    "originalLoanAmount": 49942,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 676,
+    "paymentCutOff": 93
+  },
+  {
+    "originalLoanDate": "2018-11-21T12:01:59.015Z",
+    "originalLoanAmount": 49942,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 44
+  },
+  {
+    "originalLoanDate": "2018-09-09T01:59:18.500Z",
+    "originalLoanAmount": 60267,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2936,
+    "paymentCutOff": 97
+  },
+  {
+    "originalLoanDate": "2018-09-09T01:59:18.500Z",
+    "originalLoanAmount": 60267,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 46
+  },
+  {
+    "originalLoanDate": "2018-09-17T02:05:09.340Z",
+    "originalLoanAmount": 76457,
+    "yearlyInterestRate": 10,
+    "terms": 30,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 952,
+    "paymentCutOff": 194
+  },
+  {
+    "originalLoanDate": "2018-09-17T02:05:09.340Z",
+    "originalLoanAmount": 76457,
+    "yearlyInterestRate": 10,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 46
+  },
+  {
+    "originalLoanDate": "2017-06-20T07:55:44.632Z",
+    "originalLoanAmount": 60882,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2320,
+    "paymentCutOff": 130
+  },
+  {
+    "originalLoanDate": "2017-06-20T07:55:44.632Z",
+    "originalLoanAmount": 60882,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 61
+  },
+  {
+    "originalLoanDate": "2021-02-17T01:24:52.561Z",
+    "originalLoanAmount": 46979,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2273,
+    "paymentCutOff": 32
+  },
+  {
+    "originalLoanDate": "2021-02-17T01:24:52.561Z",
+    "originalLoanAmount": 46979,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
     "paymentCutOff": 17
   },
   {
-    "originalLoanDate": "2022-06-26T06:03:07.364Z",
-    "originalLoanAmount": 71982,
+    "originalLoanDate": "2022-05-06T05:51:11.209Z",
+    "originalLoanAmount": 24215,
     "yearlyInterestRate": 6,
-    "terms": 15,
-    "paymentSchedule": 12,
-    "aditionalPrincipal": 2433,
-    "balanceAdjustments": [],
-    "paymentCutOff": 0
+    "terms": 10,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2651,
+    "paymentCutOff": 3
   },
   {
-    "originalLoanDate": "2022-06-26T06:03:07.364Z",
-    "originalLoanAmount": 71982,
+    "originalLoanDate": "2022-05-06T05:51:11.209Z",
+    "originalLoanAmount": 24215,
+    "yearlyInterestRate": 6,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 2
+  },
+  {
+    "originalLoanDate": "2018-08-28T19:40:18.281Z",
+    "originalLoanAmount": 54819,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 856,
+    "paymentCutOff": 100
+  },
+  {
+    "originalLoanDate": "2018-08-28T19:40:18.281Z",
+    "originalLoanAmount": 54819,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 47
+  },
+  {
+    "originalLoanDate": "2018-03-20T17:18:35.916Z",
+    "originalLoanAmount": 86040,
+    "yearlyInterestRate": 4,
+    "terms": 30,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 876,
+    "paymentCutOff": 220
+  },
+  {
+    "originalLoanDate": "2018-03-20T17:18:35.916Z",
+    "originalLoanAmount": 86040,
+    "yearlyInterestRate": 4,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 52
+  },
+  {
+    "originalLoanDate": "2021-10-05T07:57:09.338Z",
+    "originalLoanAmount": 55714,
+    "yearlyInterestRate": 6,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 277,
+    "paymentCutOff": 9
+  },
+  {
+    "originalLoanDate": "2021-10-05T07:57:09.338Z",
+    "originalLoanAmount": 55714,
+    "yearlyInterestRate": 6,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 9
+  },
+  {
+    "originalLoanDate": "2017-04-04T20:52:55.127Z",
+    "originalLoanAmount": 26165,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2967,
+    "paymentCutOff": 134
+  },
+  {
+    "originalLoanDate": "2017-04-04T20:52:55.127Z",
+    "originalLoanAmount": 26165,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 63
+  },
+  {
+    "originalLoanDate": "2017-11-20T04:11:39.550Z",
+    "originalLoanAmount": 29001,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 103,
+    "paymentCutOff": 56
+  },
+  {
+    "originalLoanDate": "2017-11-20T04:11:39.550Z",
+    "originalLoanAmount": 29001,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 56
+  },
+  {
+    "originalLoanDate": "2018-03-26T05:17:16.047Z",
+    "originalLoanAmount": 65225,
+    "yearlyInterestRate": 6,
+    "terms": 5,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 494,
+    "paymentCutOff": 102
+  },
+  {
+    "originalLoanDate": "2018-03-26T05:17:16.047Z",
+    "originalLoanAmount": 65225,
+    "yearlyInterestRate": 6,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 52
+  },
+  {
+    "originalLoanDate": "2021-10-22T02:14:55.703Z",
+    "originalLoanAmount": 67691,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 1914,
+    "paymentCutOff": 33
+  },
+  {
+    "originalLoanDate": "2021-10-22T02:14:55.703Z",
+    "originalLoanAmount": 67691,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 9
+  },
+  {
+    "originalLoanDate": "2021-10-21T03:29:10.061Z",
+    "originalLoanAmount": 10170,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2645,
+    "paymentCutOff": 17
+  },
+  {
+    "originalLoanDate": "2021-10-21T03:29:10.061Z",
+    "originalLoanAmount": 10170,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 9
+  },
+  {
+    "originalLoanDate": "2017-12-08T17:49:20.351Z",
+    "originalLoanAmount": 35631,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 36,
+    "paymentCutOff": 233
+  },
+  {
+    "originalLoanDate": "2017-12-08T17:49:20.351Z",
+    "originalLoanAmount": 35631,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 55
+  },
+  {
+    "originalLoanDate": "2018-04-30T10:04:44.700Z",
+    "originalLoanAmount": 87390,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 343,
+    "paymentCutOff": 108
+  },
+  {
+    "originalLoanDate": "2018-04-30T10:04:44.700Z",
+    "originalLoanAmount": 87390,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 51
+  },
+  {
+    "originalLoanDate": "2017-08-01T16:52:03.009Z",
+    "originalLoanAmount": 58771,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 1023,
+    "paymentCutOff": 250
+  },
+  {
+    "originalLoanDate": "2017-08-01T16:52:03.009Z",
+    "originalLoanAmount": 58771,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 59
+  },
+  {
+    "originalLoanDate": "2019-09-10T14:36:35.430Z",
+    "originalLoanAmount": 67520,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2117,
+    "paymentCutOff": 34
+  },
+  {
+    "originalLoanDate": "2019-09-10T14:36:35.430Z",
+    "originalLoanAmount": 67520,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 34
+  },
+  {
+    "originalLoanDate": "2019-06-30T02:30:41.377Z",
+    "originalLoanAmount": 55124,
+    "yearlyInterestRate": 10,
+    "terms": 30,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 432,
+    "paymentCutOff": 155
+  },
+  {
+    "originalLoanDate": "2019-06-30T02:30:41.377Z",
+    "originalLoanAmount": 55124,
+    "yearlyInterestRate": 10,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 37
+  },
+  {
+    "originalLoanDate": "2021-06-10T15:31:11.762Z",
+    "originalLoanAmount": 60584,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 882,
+    "paymentCutOff": 24
+  },
+  {
+    "originalLoanDate": "2021-06-10T15:31:11.762Z",
+    "originalLoanAmount": 60584,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 13
+  },
+  {
+    "originalLoanDate": "2017-11-10T10:25:01.545Z",
+    "originalLoanAmount": 72028,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2203,
+    "paymentCutOff": 110
+  },
+  {
+    "originalLoanDate": "2017-11-10T10:25:01.545Z",
+    "originalLoanAmount": 72028,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 56
+  },
+  {
+    "originalLoanDate": "2019-08-30T18:37:44.781Z",
+    "originalLoanAmount": 39592,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1199,
+    "paymentCutOff": 68
+  },
+  {
+    "originalLoanDate": "2019-08-30T18:37:44.781Z",
+    "originalLoanAmount": 39592,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 35
+  },
+  {
+    "originalLoanDate": "2020-02-02T06:25:26.437Z",
+    "originalLoanAmount": 39756,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2245,
+    "paymentCutOff": 120
+  },
+  {
+    "originalLoanDate": "2020-02-02T06:25:26.437Z",
+    "originalLoanAmount": 39756,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 29
+  },
+  {
+    "originalLoanDate": "2019-07-11T04:26:10.946Z",
+    "originalLoanAmount": 91548,
+    "yearlyInterestRate": 2,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1443,
+    "paymentCutOff": 70
+  },
+  {
+    "originalLoanDate": "2019-07-11T04:26:10.946Z",
+    "originalLoanAmount": 91548,
+    "yearlyInterestRate": 2,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 36
+  },
+  {
+    "originalLoanDate": "2021-05-08T22:05:19.953Z",
+    "originalLoanAmount": 88734,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2030,
+    "paymentCutOff": 28
+  },
+  {
+    "originalLoanDate": "2021-05-08T22:05:19.953Z",
+    "originalLoanAmount": 88734,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 14
+  },
+  {
+    "originalLoanDate": "2018-06-27T10:48:10.852Z",
+    "originalLoanAmount": 62846,
+    "yearlyInterestRate": 10,
+    "terms": 10,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 488,
+    "paymentCutOff": 104
+  },
+  {
+    "originalLoanDate": "2018-06-27T10:48:10.852Z",
+    "originalLoanAmount": 62846,
+    "yearlyInterestRate": 10,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 49
+  },
+  {
+    "originalLoanDate": "2019-02-14T01:19:11.479Z",
+    "originalLoanAmount": 32849,
+    "yearlyInterestRate": 8,
+    "terms": 10,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2277,
+    "paymentCutOff": 172
+  },
+  {
+    "originalLoanDate": "2019-02-14T01:19:11.479Z",
+    "originalLoanAmount": 32849,
+    "yearlyInterestRate": 8,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 41
+  },
+  {
+    "originalLoanDate": "2022-05-17T17:30:01.603Z",
+    "originalLoanAmount": 19355,
+    "yearlyInterestRate": 2,
+    "terms": 7,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2763,
+    "paymentCutOff": 2
+  },
+  {
+    "originalLoanDate": "2022-05-17T17:30:01.603Z",
+    "originalLoanAmount": 19355,
+    "yearlyInterestRate": 2,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 2
+  },
+  {
+    "originalLoanDate": "2021-09-18T21:03:17.863Z",
+    "originalLoanAmount": 23632,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 900,
+    "paymentCutOff": 19
+  },
+  {
+    "originalLoanDate": "2021-09-18T21:03:17.863Z",
+    "originalLoanAmount": 23632,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 10
+  },
+  {
+    "originalLoanDate": "2022-01-16T20:16:22.601Z",
+    "originalLoanAmount": 64984,
+    "yearlyInterestRate": 10,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2036,
+    "paymentCutOff": 6
+  },
+  {
+    "originalLoanDate": "2022-01-16T20:16:22.601Z",
+    "originalLoanAmount": 64984,
+    "yearlyInterestRate": 10,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 6
+  },
+  {
+    "originalLoanDate": "2017-03-26T08:22:42.464Z",
+    "originalLoanAmount": 87915,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 543,
+    "paymentCutOff": 64
+  },
+  {
+    "originalLoanDate": "2017-03-26T08:22:42.464Z",
+    "originalLoanAmount": 87915,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 64
+  },
+  {
+    "originalLoanDate": "2018-10-26T17:29:58.098Z",
+    "originalLoanAmount": 67976,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2535,
+    "paymentCutOff": 88
+  },
+  {
+    "originalLoanDate": "2018-10-26T17:29:58.098Z",
+    "originalLoanAmount": 67976,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 45
+  },
+  {
+    "originalLoanDate": "2021-03-16T06:17:00.816Z",
+    "originalLoanAmount": 46252,
+    "yearlyInterestRate": 6,
+    "terms": 3,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2643,
+    "paymentCutOff": 32
+  },
+  {
+    "originalLoanDate": "2021-03-16T06:17:00.816Z",
+    "originalLoanAmount": 46252,
+    "yearlyInterestRate": 6,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 16
+  },
+  {
+    "originalLoanDate": "2022-02-22T14:10:05.115Z",
+    "originalLoanAmount": 23532,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1857,
+    "paymentCutOff": 8
+  },
+  {
+    "originalLoanDate": "2022-02-22T14:10:05.115Z",
+    "originalLoanAmount": 23532,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 5
+  },
+  {
+    "originalLoanDate": "2020-01-04T11:07:02.761Z",
+    "originalLoanAmount": 17670,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1101,
+    "paymentCutOff": 58
+  },
+  {
+    "originalLoanDate": "2020-01-04T11:07:02.761Z",
+    "originalLoanAmount": 17670,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 30
+  },
+  {
+    "originalLoanDate": "2019-06-06T13:54:21.832Z",
+    "originalLoanAmount": 26699,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2005,
+    "paymentCutOff": 155
+  },
+  {
+    "originalLoanDate": "2019-06-06T13:54:21.832Z",
+    "originalLoanAmount": 26699,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 37
+  },
+  {
+    "originalLoanDate": "2017-11-24T15:49:57.685Z",
+    "originalLoanAmount": 81420,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2336,
+    "paymentCutOff": 237
+  },
+  {
+    "originalLoanDate": "2017-11-24T15:49:57.685Z",
+    "originalLoanAmount": 81420,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 56
+  },
+  {
+    "originalLoanDate": "2018-11-13T10:02:23.042Z",
+    "originalLoanAmount": 38953,
+    "yearlyInterestRate": 6,
+    "terms": 15,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2986,
+    "paymentCutOff": 185
+  },
+  {
+    "originalLoanDate": "2018-11-13T10:02:23.042Z",
+    "originalLoanAmount": 38953,
     "yearlyInterestRate": 6,
     "terms": 15,
     "paymentSchedule": 12,
     "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
-    "paymentCutOff": 0
+    "paymentCutOff": 44
   },
   {
-    "originalLoanDate": "2017-10-29T21:33:14.959Z",
-    "originalLoanAmount": 98335,
+    "originalLoanDate": "2017-08-09T15:08:44.557Z",
+    "originalLoanAmount": 77887,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2970,
+    "paymentCutOff": 126
+  },
+  {
+    "originalLoanDate": "2017-08-09T15:08:44.557Z",
+    "originalLoanAmount": 77887,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 59
+  },
+  {
+    "originalLoanDate": "2017-08-05T09:22:00.678Z",
+    "originalLoanAmount": 107170,
+    "yearlyInterestRate": 2,
+    "terms": 5,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2845,
+    "paymentCutOff": 116
+  },
+  {
+    "originalLoanDate": "2017-08-05T09:22:00.678Z",
+    "originalLoanAmount": 107170,
+    "yearlyInterestRate": 2,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 59
+  },
+  {
+    "originalLoanDate": "2017-05-14T12:24:18.007Z",
+    "originalLoanAmount": 65162,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 1620,
+    "paymentCutOff": 62
+  },
+  {
+    "originalLoanDate": "2017-05-14T12:24:18.007Z",
+    "originalLoanAmount": 65162,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 62
+  },
+  {
+    "originalLoanDate": "2021-10-27T04:50:48.159Z",
+    "originalLoanAmount": 62542,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2932,
+    "paymentCutOff": 33
+  },
+  {
+    "originalLoanDate": "2021-10-27T04:50:48.159Z",
+    "originalLoanAmount": 62542,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 9
+  },
+  {
+    "originalLoanDate": "2021-05-09T08:56:46.354Z",
+    "originalLoanAmount": 48554,
+    "yearlyInterestRate": 2,
+    "terms": 3,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 1281,
+    "paymentCutOff": 55
+  },
+  {
+    "originalLoanDate": "2021-05-09T08:56:46.354Z",
+    "originalLoanAmount": 48554,
+    "yearlyInterestRate": 2,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 14
+  },
+  {
+    "originalLoanDate": "2022-01-22T23:25:21.157Z",
+    "originalLoanAmount": 61017,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2528,
+    "paymentCutOff": 11
+  },
+  {
+    "originalLoanDate": "2022-01-22T23:25:21.157Z",
+    "originalLoanAmount": 61017,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 6
+  },
+  {
+    "originalLoanDate": "2019-03-17T09:53:44.324Z",
+    "originalLoanAmount": 80575,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 795,
+    "paymentCutOff": 78
+  },
+  {
+    "originalLoanDate": "2019-03-17T09:53:44.324Z",
+    "originalLoanAmount": 80575,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 40
+  },
+  {
+    "originalLoanDate": "2019-02-19T16:56:28.320Z",
+    "originalLoanAmount": 53313,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2865,
+    "paymentCutOff": 41
+  },
+  {
+    "originalLoanDate": "2019-02-19T16:56:28.320Z",
+    "originalLoanAmount": 53313,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 41
+  },
+  {
+    "originalLoanDate": "2021-07-03T15:30:55.081Z",
+    "originalLoanAmount": 19328,
+    "yearlyInterestRate": 6,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2635,
+    "paymentCutOff": 12
+  },
+  {
+    "originalLoanDate": "2021-07-03T15:30:55.081Z",
+    "originalLoanAmount": 19328,
+    "yearlyInterestRate": 6,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 12
+  },
+  {
+    "originalLoanDate": "2020-07-08T02:11:21.342Z",
+    "originalLoanAmount": 62098,
+    "yearlyInterestRate": 10,
+    "terms": 3,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 254,
+    "paymentCutOff": 46
+  },
+  {
+    "originalLoanDate": "2020-07-08T02:11:21.342Z",
+    "originalLoanAmount": 62098,
+    "yearlyInterestRate": 10,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 24
+  },
+  {
+    "originalLoanDate": "2019-10-23T01:29:26.795Z",
+    "originalLoanAmount": 104612,
+    "yearlyInterestRate": 6,
+    "terms": 10,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 925,
+    "paymentCutOff": 69
+  },
+  {
+    "originalLoanDate": "2019-10-23T01:29:26.795Z",
+    "originalLoanAmount": 104612,
+    "yearlyInterestRate": 6,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 33
+  },
+  {
+    "originalLoanDate": "2017-09-07T16:57:08.321Z",
+    "originalLoanAmount": 56169,
+    "yearlyInterestRate": 4,
+    "terms": 10,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2910,
+    "paymentCutOff": 114
+  },
+  {
+    "originalLoanDate": "2017-09-07T16:57:08.321Z",
+    "originalLoanAmount": 56169,
+    "yearlyInterestRate": 4,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 58
+  },
+  {
+    "originalLoanDate": "2017-10-22T20:28:03.609Z",
+    "originalLoanAmount": 64411,
+    "yearlyInterestRate": 10,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 1044,
+    "paymentCutOff": 57
+  },
+  {
+    "originalLoanDate": "2017-10-22T20:28:03.609Z",
+    "originalLoanAmount": 64411,
+    "yearlyInterestRate": 10,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 57
+  },
+  {
+    "originalLoanDate": "2017-09-08T20:27:55.691Z",
+    "originalLoanAmount": 101345,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 777,
+    "paymentCutOff": 246
+  },
+  {
+    "originalLoanDate": "2017-09-08T20:27:55.691Z",
+    "originalLoanAmount": 101345,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 58
+  },
+  {
+    "originalLoanDate": "2020-11-06T21:45:46.886Z",
+    "originalLoanAmount": 107411,
+    "yearlyInterestRate": 6,
+    "terms": 15,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 254,
+    "paymentCutOff": 81
+  },
+  {
+    "originalLoanDate": "2020-11-06T21:45:46.886Z",
+    "originalLoanAmount": 107411,
+    "yearlyInterestRate": 6,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 20
+  },
+  {
+    "originalLoanDate": "2018-10-15T08:47:57.666Z",
+    "originalLoanAmount": 72595,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1712,
+    "paymentCutOff": 88
+  },
+  {
+    "originalLoanDate": "2018-10-15T08:47:57.666Z",
+    "originalLoanAmount": 72595,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 45
+  },
+  {
+    "originalLoanDate": "2019-12-14T14:33:25.753Z",
+    "originalLoanAmount": 108108,
+    "yearlyInterestRate": 2,
+    "terms": 7,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 1330,
+    "paymentCutOff": 65
+  },
+  {
+    "originalLoanDate": "2019-12-14T14:33:25.753Z",
+    "originalLoanAmount": 108108,
+    "yearlyInterestRate": 2,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 31
+  },
+  {
+    "originalLoanDate": "2021-02-04T15:38:10.669Z",
+    "originalLoanAmount": 42814,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 1104,
+    "paymentCutOff": 68
+  },
+  {
+    "originalLoanDate": "2021-02-04T15:38:10.669Z",
+    "originalLoanAmount": 42814,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 17
+  },
+  {
+    "originalLoanDate": "2017-08-03T07:54:00.607Z",
+    "originalLoanAmount": 16895,
+    "yearlyInterestRate": 8,
+    "terms": 5,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2441,
+    "paymentCutOff": 250
+  },
+  {
+    "originalLoanDate": "2017-08-03T07:54:00.607Z",
+    "originalLoanAmount": 16895,
+    "yearlyInterestRate": 8,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 59
+  },
+  {
+    "originalLoanDate": "2017-08-17T05:43:55.527Z",
+    "originalLoanAmount": 13456,
+    "yearlyInterestRate": 2,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 1362,
+    "paymentCutOff": 59
+  },
+  {
+    "originalLoanDate": "2017-08-17T05:43:55.527Z",
+    "originalLoanAmount": 13456,
+    "yearlyInterestRate": 2,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 59
+  },
+  {
+    "originalLoanDate": "2020-03-12T12:21:31.789Z",
+    "originalLoanAmount": 101131,
+    "yearlyInterestRate": 8,
+    "terms": 20,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 715,
+    "paymentCutOff": 54
+  },
+  {
+    "originalLoanDate": "2020-03-12T12:21:31.789Z",
+    "originalLoanAmount": 101131,
+    "yearlyInterestRate": 8,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 28
+  },
+  {
+    "originalLoanDate": "2017-08-07T21:59:05.302Z",
+    "originalLoanAmount": 105521,
+    "yearlyInterestRate": 4,
+    "terms": 5,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2143,
+    "paymentCutOff": 116
+  },
+  {
+    "originalLoanDate": "2017-08-07T21:59:05.302Z",
+    "originalLoanAmount": 105521,
+    "yearlyInterestRate": 4,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 59
+  },
+  {
+    "originalLoanDate": "2018-07-31T16:12:14.214Z",
+    "originalLoanAmount": 57909,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1048,
+    "paymentCutOff": 94
+  },
+  {
+    "originalLoanDate": "2018-07-31T16:12:14.214Z",
+    "originalLoanAmount": 57909,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 48
+  },
+  {
+    "originalLoanDate": "2020-02-26T01:50:46.169Z",
+    "originalLoanAmount": 45095,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2077,
+    "paymentCutOff": 29
+  },
+  {
+    "originalLoanDate": "2020-02-26T01:50:46.169Z",
+    "originalLoanAmount": 45095,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 29
+  },
+  {
+    "originalLoanDate": "2018-08-29T19:18:36.211Z",
+    "originalLoanAmount": 89328,
     "yearlyInterestRate": 6,
     "terms": 7,
     "paymentSchedule": 12,
-    "aditionalPrincipal": 1828,
-    "balanceAdjustments": [],
-    "paymentCutOff": 56
+    "aditionalPrincipal": 2715,
+    "paymentCutOff": 47
   },
   {
-    "originalLoanDate": "2017-10-29T21:33:14.959Z",
-    "originalLoanAmount": 98335,
+    "originalLoanDate": "2018-08-29T19:18:36.211Z",
+    "originalLoanAmount": 89328,
     "yearlyInterestRate": 6,
     "terms": 7,
     "paymentSchedule": 12,
     "aditionalPrincipal": 0,
-    "balanceAdjustments": [],
+    "paymentCutOff": 47
+  },
+  {
+    "originalLoanDate": "2020-02-17T16:28:29.140Z",
+    "originalLoanAmount": 73138,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 1618,
+    "paymentCutOff": 29
+  },
+  {
+    "originalLoanDate": "2020-02-17T16:28:29.140Z",
+    "originalLoanAmount": 73138,
+    "yearlyInterestRate": 10,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 29
+  },
+  {
+    "originalLoanDate": "2019-10-02T08:08:12.069Z",
+    "originalLoanAmount": 18266,
+    "yearlyInterestRate": 6,
+    "terms": 3,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 1959,
+    "paymentCutOff": 69
+  },
+  {
+    "originalLoanDate": "2019-10-02T08:08:12.069Z",
+    "originalLoanAmount": 18266,
+    "yearlyInterestRate": 6,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 33
+  },
+  {
+    "originalLoanDate": "2017-05-25T11:09:35.645Z",
+    "originalLoanAmount": 89601,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 558,
+    "paymentCutOff": 132
+  },
+  {
+    "originalLoanDate": "2017-05-25T11:09:35.645Z",
+    "originalLoanAmount": 89601,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 62
+  },
+  {
+    "originalLoanDate": "2021-11-03T17:02:04.135Z",
+    "originalLoanAmount": 24300,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2797,
+    "paymentCutOff": 8
+  },
+  {
+    "originalLoanDate": "2021-11-03T17:02:04.135Z",
+    "originalLoanAmount": 24300,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 8
+  },
+  {
+    "originalLoanDate": "2019-12-28T01:01:05.213Z",
+    "originalLoanAmount": 93376,
+    "yearlyInterestRate": 8,
+    "terms": 30,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 875,
+    "paymentCutOff": 128
+  },
+  {
+    "originalLoanDate": "2019-12-28T01:01:05.213Z",
+    "originalLoanAmount": 93376,
+    "yearlyInterestRate": 8,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 31
+  },
+  {
+    "originalLoanDate": "2020-03-02T15:16:18.896Z",
+    "originalLoanAmount": 85153,
+    "yearlyInterestRate": 6,
+    "terms": 3,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 1884,
+    "paymentCutOff": 116
+  },
+  {
+    "originalLoanDate": "2020-03-02T15:16:18.896Z",
+    "originalLoanAmount": 85153,
+    "yearlyInterestRate": 6,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 28
+  },
+  {
+    "originalLoanDate": "2021-05-06T04:40:00.193Z",
+    "originalLoanAmount": 10005,
+    "yearlyInterestRate": 2,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 144,
+    "paymentCutOff": 14
+  },
+  {
+    "originalLoanDate": "2021-05-06T04:40:00.193Z",
+    "originalLoanAmount": 10005,
+    "yearlyInterestRate": 2,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 14
+  },
+  {
+    "originalLoanDate": "2018-07-26T15:56:00.570Z",
+    "originalLoanAmount": 95376,
+    "yearlyInterestRate": 10,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 55,
+    "paymentCutOff": 48
+  },
+  {
+    "originalLoanDate": "2018-07-26T15:56:00.570Z",
+    "originalLoanAmount": 95376,
+    "yearlyInterestRate": 10,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 48
+  },
+  {
+    "originalLoanDate": "2021-12-31T12:25:20.574Z",
+    "originalLoanAmount": 99980,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 942,
+    "paymentCutOff": 24
+  },
+  {
+    "originalLoanDate": "2021-12-31T12:25:20.574Z",
+    "originalLoanAmount": 99980,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 7
+  },
+  {
+    "originalLoanDate": "2020-06-11T02:22:49.442Z",
+    "originalLoanAmount": 65953,
+    "yearlyInterestRate": 8,
+    "terms": 10,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 870,
+    "paymentCutOff": 102
+  },
+  {
+    "originalLoanDate": "2020-06-11T02:22:49.442Z",
+    "originalLoanAmount": 65953,
+    "yearlyInterestRate": 8,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 25
+  },
+  {
+    "originalLoanDate": "2017-12-13T10:03:40.805Z",
+    "originalLoanAmount": 74137,
+    "yearlyInterestRate": 2,
+    "terms": 10,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2568,
+    "paymentCutOff": 117
+  },
+  {
+    "originalLoanDate": "2017-12-13T10:03:40.805Z",
+    "originalLoanAmount": 74137,
+    "yearlyInterestRate": 2,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 55
+  },
+  {
+    "originalLoanDate": "2017-03-07T23:23:17.563Z",
+    "originalLoanAmount": 67011,
+    "yearlyInterestRate": 10,
+    "terms": 20,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2498,
+    "paymentCutOff": 137
+  },
+  {
+    "originalLoanDate": "2017-03-07T23:23:17.563Z",
+    "originalLoanAmount": 67011,
+    "yearlyInterestRate": 10,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 64
+  },
+  {
+    "originalLoanDate": "2020-11-01T03:18:06.171Z",
+    "originalLoanAmount": 71891,
+    "yearlyInterestRate": 6,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2797,
+    "paymentCutOff": 40
+  },
+  {
+    "originalLoanDate": "2020-11-01T03:18:06.171Z",
+    "originalLoanAmount": 71891,
+    "yearlyInterestRate": 6,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 21
+  },
+  {
+    "originalLoanDate": "2017-04-27T12:09:05.774Z",
+    "originalLoanAmount": 84370,
+    "yearlyInterestRate": 2,
+    "terms": 7,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 1629,
+    "paymentCutOff": 268
+  },
+  {
+    "originalLoanDate": "2017-04-27T12:09:05.774Z",
+    "originalLoanAmount": 84370,
+    "yearlyInterestRate": 2,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 63
+  },
+  {
+    "originalLoanDate": "2019-03-11T05:16:45.836Z",
+    "originalLoanAmount": 91728,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1871,
+    "paymentCutOff": 78
+  },
+  {
+    "originalLoanDate": "2019-03-11T05:16:45.836Z",
+    "originalLoanAmount": 91728,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 40
+  },
+  {
+    "originalLoanDate": "2017-12-23T15:02:49.768Z",
+    "originalLoanAmount": 47486,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 275,
+    "paymentCutOff": 55
+  },
+  {
+    "originalLoanDate": "2017-12-23T15:02:49.768Z",
+    "originalLoanAmount": 47486,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 55
+  },
+  {
+    "originalLoanDate": "2021-11-26T00:25:22.535Z",
+    "originalLoanAmount": 17351,
+    "yearlyInterestRate": 4,
+    "terms": 30,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1326,
+    "paymentCutOff": 14
+  },
+  {
+    "originalLoanDate": "2021-11-26T00:25:22.535Z",
+    "originalLoanAmount": 17351,
+    "yearlyInterestRate": 4,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 8
+  },
+  {
+    "originalLoanDate": "2020-02-21T05:30:13.475Z",
+    "originalLoanAmount": 46077,
+    "yearlyInterestRate": 8,
+    "terms": 30,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 17,
     "paymentCutOff": 56
+  },
+  {
+    "originalLoanDate": "2020-02-21T05:30:13.475Z",
+    "originalLoanAmount": 46077,
+    "yearlyInterestRate": 8,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 29
+  },
+  {
+    "originalLoanDate": "2021-07-21T23:21:20.755Z",
+    "originalLoanAmount": 76623,
+    "yearlyInterestRate": 2,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 203,
+    "paymentCutOff": 22
+  },
+  {
+    "originalLoanDate": "2021-07-21T23:21:20.755Z",
+    "originalLoanAmount": 76623,
+    "yearlyInterestRate": 2,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 12
+  },
+  {
+    "originalLoanDate": "2021-01-18T18:15:50.180Z",
+    "originalLoanAmount": 14674,
+    "yearlyInterestRate": 10,
+    "terms": 30,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2438,
+    "paymentCutOff": 34
+  },
+  {
+    "originalLoanDate": "2021-01-18T18:15:50.180Z",
+    "originalLoanAmount": 14674,
+    "yearlyInterestRate": 10,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 18
+  },
+  {
+    "originalLoanDate": "2018-12-20T05:29:25.977Z",
+    "originalLoanAmount": 23821,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2680,
+    "paymentCutOff": 84
+  },
+  {
+    "originalLoanDate": "2018-12-20T05:29:25.977Z",
+    "originalLoanAmount": 23821,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 43
+  },
+  {
+    "originalLoanDate": "2018-08-12T11:09:57.497Z",
+    "originalLoanAmount": 90264,
+    "yearlyInterestRate": 10,
+    "terms": 3,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2801,
+    "paymentCutOff": 198
+  },
+  {
+    "originalLoanDate": "2018-08-12T11:09:57.497Z",
+    "originalLoanAmount": 90264,
+    "yearlyInterestRate": 10,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 47
+  },
+  {
+    "originalLoanDate": "2018-02-09T09:04:31.422Z",
+    "originalLoanAmount": 34600,
+    "yearlyInterestRate": 2,
+    "terms": 10,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 936,
+    "paymentCutOff": 104
+  },
+  {
+    "originalLoanDate": "2018-02-09T09:04:31.422Z",
+    "originalLoanAmount": 34600,
+    "yearlyInterestRate": 2,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 53
+  },
+  {
+    "originalLoanDate": "2018-02-15T07:09:06.028Z",
+    "originalLoanAmount": 81806,
+    "yearlyInterestRate": 6,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2786,
+    "paymentCutOff": 53
+  },
+  {
+    "originalLoanDate": "2018-02-15T07:09:06.028Z",
+    "originalLoanAmount": 81806,
+    "yearlyInterestRate": 6,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 53
+  },
+  {
+    "originalLoanDate": "2017-07-26T01:42:18.519Z",
+    "originalLoanAmount": 57386,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2413,
+    "paymentCutOff": 255
+  },
+  {
+    "originalLoanDate": "2017-07-26T01:42:18.519Z",
+    "originalLoanAmount": 57386,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 60
+  },
+  {
+    "originalLoanDate": "2019-11-28T20:07:34.869Z",
+    "originalLoanAmount": 64520,
+    "yearlyInterestRate": 10,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 1169,
+    "paymentCutOff": 32
+  },
+  {
+    "originalLoanDate": "2019-11-28T20:07:34.869Z",
+    "originalLoanAmount": 64520,
+    "yearlyInterestRate": 10,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 32
+  },
+  {
+    "originalLoanDate": "2021-07-02T01:16:14.006Z",
+    "originalLoanAmount": 76990,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 707,
+    "paymentCutOff": 12
+  },
+  {
+    "originalLoanDate": "2021-07-02T01:16:14.006Z",
+    "originalLoanAmount": 76990,
+    "yearlyInterestRate": 4,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 12
+  },
+  {
+    "originalLoanDate": "2017-11-23T10:43:30.055Z",
+    "originalLoanAmount": 71198,
+    "yearlyInterestRate": 8,
+    "terms": 10,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2907,
+    "paymentCutOff": 110
+  },
+  {
+    "originalLoanDate": "2017-11-23T10:43:30.055Z",
+    "originalLoanAmount": 71198,
+    "yearlyInterestRate": 8,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 56
+  },
+  {
+    "originalLoanDate": "2020-03-22T19:03:06.315Z",
+    "originalLoanAmount": 40428,
+    "yearlyInterestRate": 10,
+    "terms": 3,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 1271,
+    "paymentCutOff": 58
+  },
+  {
+    "originalLoanDate": "2020-03-22T19:03:06.315Z",
+    "originalLoanAmount": 40428,
+    "yearlyInterestRate": 10,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 28
+  },
+  {
+    "originalLoanDate": "2019-11-30T14:24:05.988Z",
+    "originalLoanAmount": 11449,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 137,
+    "paymentCutOff": 62
+  },
+  {
+    "originalLoanDate": "2019-11-30T14:24:05.988Z",
+    "originalLoanAmount": 11449,
+    "yearlyInterestRate": 4,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 32
+  },
+  {
+    "originalLoanDate": "2021-11-18T18:01:55.999Z",
+    "originalLoanAmount": 32469,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 942,
+    "paymentCutOff": 8
+  },
+  {
+    "originalLoanDate": "2021-11-18T18:01:55.999Z",
+    "originalLoanAmount": 32469,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 8
+  },
+  {
+    "originalLoanDate": "2017-02-02T00:52:57.697Z",
+    "originalLoanAmount": 40510,
+    "yearlyInterestRate": 6,
+    "terms": 10,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 769,
+    "paymentCutOff": 276
+  },
+  {
+    "originalLoanDate": "2017-02-02T00:52:57.697Z",
+    "originalLoanAmount": 40510,
+    "yearlyInterestRate": 6,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 65
+  },
+  {
+    "originalLoanDate": "2020-10-26T15:26:05.289Z",
+    "originalLoanAmount": 50851,
+    "yearlyInterestRate": 8,
+    "terms": 30,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2400,
+    "paymentCutOff": 85
+  },
+  {
+    "originalLoanDate": "2020-10-26T15:26:05.289Z",
+    "originalLoanAmount": 50851,
+    "yearlyInterestRate": 8,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 21
+  },
+  {
+    "originalLoanDate": "2019-08-02T13:12:32.646Z",
+    "originalLoanAmount": 30177,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 340,
+    "paymentCutOff": 68
+  },
+  {
+    "originalLoanDate": "2019-08-02T13:12:32.646Z",
+    "originalLoanAmount": 30177,
+    "yearlyInterestRate": 6,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 35
+  },
+  {
+    "originalLoanDate": "2020-11-01T18:42:27.378Z",
+    "originalLoanAmount": 83305,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 2439,
+    "paymentCutOff": 81
+  },
+  {
+    "originalLoanDate": "2020-11-01T18:42:27.378Z",
+    "originalLoanAmount": 83305,
+    "yearlyInterestRate": 4,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 20
+  },
+  {
+    "originalLoanDate": "2018-08-13T14:58:04.610Z",
+    "originalLoanAmount": 89534,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1578,
+    "paymentCutOff": 92
+  },
+  {
+    "originalLoanDate": "2018-08-13T14:58:04.610Z",
+    "originalLoanAmount": 89534,
+    "yearlyInterestRate": 6,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 47
+  },
+  {
+    "originalLoanDate": "2019-12-27T02:51:41.996Z",
+    "originalLoanAmount": 84787,
+    "yearlyInterestRate": 2,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2163,
+    "paymentCutOff": 31
+  },
+  {
+    "originalLoanDate": "2019-12-27T02:51:41.996Z",
+    "originalLoanAmount": 84787,
+    "yearlyInterestRate": 2,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 31
+  },
+  {
+    "originalLoanDate": "2018-02-02T02:42:11.011Z",
+    "originalLoanAmount": 12056,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 1423,
+    "paymentCutOff": 224
+  },
+  {
+    "originalLoanDate": "2018-02-02T02:42:11.011Z",
+    "originalLoanAmount": 12056,
+    "yearlyInterestRate": 8,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 53
+  },
+  {
+    "originalLoanDate": "2017-03-09T03:13:17.547Z",
+    "originalLoanAmount": 54119,
+    "yearlyInterestRate": 2,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 995,
+    "paymentCutOff": 64
+  },
+  {
+    "originalLoanDate": "2017-03-09T03:13:17.547Z",
+    "originalLoanAmount": 54119,
+    "yearlyInterestRate": 2,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 64
+  },
+  {
+    "originalLoanDate": "2022-05-07T23:52:48.600Z",
+    "originalLoanAmount": 50470,
+    "yearlyInterestRate": 4,
+    "terms": 10,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 2912,
+    "paymentCutOff": 2
+  },
+  {
+    "originalLoanDate": "2022-05-07T23:52:48.600Z",
+    "originalLoanAmount": 50470,
+    "yearlyInterestRate": 4,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 2
+  },
+  {
+    "originalLoanDate": "2020-08-02T00:40:25.170Z",
+    "originalLoanAmount": 61088,
+    "yearlyInterestRate": 2,
+    "terms": 20,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 458,
+    "paymentCutOff": 44
+  },
+  {
+    "originalLoanDate": "2020-08-02T00:40:25.170Z",
+    "originalLoanAmount": 61088,
+    "yearlyInterestRate": 2,
+    "terms": 20,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 23
+  },
+  {
+    "originalLoanDate": "2020-12-20T14:58:34.086Z",
+    "originalLoanAmount": 55240,
+    "yearlyInterestRate": 6,
+    "terms": 10,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 422,
+    "paymentCutOff": 39
+  },
+  {
+    "originalLoanDate": "2020-12-20T14:58:34.086Z",
+    "originalLoanAmount": 55240,
+    "yearlyInterestRate": 6,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 19
+  },
+  {
+    "originalLoanDate": "2018-04-22T02:48:54.688Z",
+    "originalLoanAmount": 58762,
+    "yearlyInterestRate": 6,
+    "terms": 7,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 841,
+    "paymentCutOff": 216
+  },
+  {
+    "originalLoanDate": "2018-04-22T02:48:54.688Z",
+    "originalLoanAmount": 58762,
+    "yearlyInterestRate": 6,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 51
+  },
+  {
+    "originalLoanDate": "2018-08-02T11:04:47.048Z",
+    "originalLoanAmount": 97848,
+    "yearlyInterestRate": 4,
+    "terms": 10,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 1188,
+    "paymentCutOff": 100
+  },
+  {
+    "originalLoanDate": "2018-08-02T11:04:47.048Z",
+    "originalLoanAmount": 97848,
+    "yearlyInterestRate": 4,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 47
+  },
+  {
+    "originalLoanDate": "2022-06-03T04:37:57.595Z",
+    "originalLoanAmount": 24335,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 35,
+    "paymentCutOff": 1
+  },
+  {
+    "originalLoanDate": "2022-06-03T04:37:57.595Z",
+    "originalLoanAmount": 24335,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 1
+  },
+  {
+    "originalLoanDate": "2017-09-12T16:21:56.649Z",
+    "originalLoanAmount": 66816,
+    "yearlyInterestRate": 10,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 224,
+    "paymentCutOff": 58
+  },
+  {
+    "originalLoanDate": "2017-09-12T16:21:56.649Z",
+    "originalLoanAmount": 66816,
+    "yearlyInterestRate": 10,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 58
+  },
+  {
+    "originalLoanDate": "2021-04-12T07:21:17.410Z",
+    "originalLoanAmount": 39022,
+    "yearlyInterestRate": 2,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 815,
+    "paymentCutOff": 15
+  },
+  {
+    "originalLoanDate": "2021-04-12T07:21:17.410Z",
+    "originalLoanAmount": 39022,
+    "yearlyInterestRate": 2,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 15
+  },
+  {
+    "originalLoanDate": "2021-04-11T13:44:04.148Z",
+    "originalLoanAmount": 23581,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 147,
+    "paymentCutOff": 30
+  },
+  {
+    "originalLoanDate": "2021-04-11T13:44:04.148Z",
+    "originalLoanAmount": 23581,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 15
+  },
+  {
+    "originalLoanDate": "2019-11-14T07:03:38.768Z",
+    "originalLoanAmount": 59544,
+    "yearlyInterestRate": 8,
+    "terms": 5,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 357,
+    "paymentCutOff": 67
+  },
+  {
+    "originalLoanDate": "2019-11-14T07:03:38.768Z",
+    "originalLoanAmount": 59544,
+    "yearlyInterestRate": 8,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 32
+  },
+  {
+    "originalLoanDate": "2019-07-28T10:15:33.252Z",
+    "originalLoanAmount": 48310,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 2046,
+    "paymentCutOff": 70
+  },
+  {
+    "originalLoanDate": "2019-07-28T10:15:33.252Z",
+    "originalLoanAmount": 48310,
+    "yearlyInterestRate": 10,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 36
+  },
+  {
+    "originalLoanDate": "2020-11-17T22:11:40.525Z",
+    "originalLoanAmount": 28824,
+    "yearlyInterestRate": 8,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 2798,
+    "paymentCutOff": 20
+  },
+  {
+    "originalLoanDate": "2020-11-17T22:11:40.525Z",
+    "originalLoanAmount": 28824,
+    "yearlyInterestRate": 8,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 20
+  },
+  {
+    "originalLoanDate": "2018-01-07T02:58:48.568Z",
+    "originalLoanAmount": 101085,
+    "yearlyInterestRate": 10,
+    "terms": 3,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1909,
+    "paymentCutOff": 106
+  },
+  {
+    "originalLoanDate": "2018-01-07T02:58:48.568Z",
+    "originalLoanAmount": 101085,
+    "yearlyInterestRate": 10,
+    "terms": 3,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 54
+  },
+  {
+    "originalLoanDate": "2018-07-19T17:03:16.650Z",
+    "originalLoanAmount": 28569,
+    "yearlyInterestRate": 4,
+    "terms": 30,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 1533,
+    "paymentCutOff": 102
+  },
+  {
+    "originalLoanDate": "2018-07-19T17:03:16.650Z",
+    "originalLoanAmount": 28569,
+    "yearlyInterestRate": 4,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 48
+  },
+  {
+    "originalLoanDate": "2021-03-03T21:35:23.931Z",
+    "originalLoanAmount": 10735,
+    "yearlyInterestRate": 2,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 601,
+    "paymentCutOff": 16
+  },
+  {
+    "originalLoanDate": "2021-03-03T21:35:23.931Z",
+    "originalLoanAmount": 10735,
+    "yearlyInterestRate": 2,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 16
+  },
+  {
+    "originalLoanDate": "2018-11-29T19:00:13.865Z",
+    "originalLoanAmount": 37235,
+    "yearlyInterestRate": 8,
+    "terms": 10,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 362,
+    "paymentCutOff": 93
+  },
+  {
+    "originalLoanDate": "2018-11-29T19:00:13.865Z",
+    "originalLoanAmount": 37235,
+    "yearlyInterestRate": 8,
+    "terms": 10,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 44
+  },
+  {
+    "originalLoanDate": "2017-03-09T00:38:59.984Z",
+    "originalLoanAmount": 104242,
+    "yearlyInterestRate": 8,
+    "terms": 30,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 1668,
+    "paymentCutOff": 126
+  },
+  {
+    "originalLoanDate": "2017-03-09T00:38:59.984Z",
+    "originalLoanAmount": 104242,
+    "yearlyInterestRate": 8,
+    "terms": 30,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 64
+  },
+  {
+    "originalLoanDate": "2017-08-22T08:30:08.090Z",
+    "originalLoanAmount": 35141,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 1843,
+    "paymentCutOff": 250
+  },
+  {
+    "originalLoanDate": "2017-08-22T08:30:08.090Z",
+    "originalLoanAmount": 35141,
+    "yearlyInterestRate": 8,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 59
+  },
+  {
+    "originalLoanDate": "2021-07-30T16:53:40.367Z",
+    "originalLoanAmount": 71712,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 26,
+    "aditionalPrincipal": 937,
+    "paymentCutOff": 24
+  },
+  {
+    "originalLoanDate": "2021-07-30T16:53:40.367Z",
+    "originalLoanAmount": 71712,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 12
+  },
+  {
+    "originalLoanDate": "2021-06-01T21:59:08.459Z",
+    "originalLoanAmount": 95682,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 273,
+    "paymentCutOff": 24
+  },
+  {
+    "originalLoanDate": "2021-06-01T21:59:08.459Z",
+    "originalLoanAmount": 95682,
+    "yearlyInterestRate": 8,
+    "terms": 15,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 13
+  },
+  {
+    "originalLoanDate": "2019-07-19T19:56:04.140Z",
+    "originalLoanAmount": 50137,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 24,
+    "aditionalPrincipal": 993,
+    "paymentCutOff": 70
+  },
+  {
+    "originalLoanDate": "2019-07-19T19:56:04.140Z",
+    "originalLoanAmount": 50137,
+    "yearlyInterestRate": 4,
+    "terms": 7,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 36
+  },
+  {
+    "originalLoanDate": "2018-09-03T15:30:21.645Z",
+    "originalLoanAmount": 79203,
+    "yearlyInterestRate": 8,
+    "terms": 5,
+    "paymentSchedule": 52,
+    "aditionalPrincipal": 905,
+    "paymentCutOff": 194
+  },
+  {
+    "originalLoanDate": "2018-09-03T15:30:21.645Z",
+    "originalLoanAmount": 79203,
+    "yearlyInterestRate": 8,
+    "terms": 5,
+    "paymentSchedule": 12,
+    "aditionalPrincipal": 0,
+    "paymentCutOff": 46
   }
 ]
