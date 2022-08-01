@@ -1,6 +1,6 @@
 [
   {
-    "originalLoanDate": "2021-09-08T00:00:00.000Z",
+    "originalLoanDate": "2021-09-08",
     "originalLoanAmount": 36087,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -9,7 +9,7 @@
     "paymentCutOff": 20
   },
   {
-    "originalLoanDate": "2021-09-08T00:00:00.000Z",
+    "originalLoanDate": "2021-09-08",
     "originalLoanAmount": 36087,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -18,7 +18,7 @@
     "paymentCutOff": 10
   },
   {
-    "originalLoanDate": "2018-06-11T00:00:00.000Z",
+    "originalLoanDate": "2018-06-11",
     "originalLoanAmount": 84620,
     "yearlyInterestRate": 2,
     "terms": 5,
@@ -27,7 +27,7 @@
     "paymentCutOff": 104
   },
   {
-    "originalLoanDate": "2018-06-11T00:00:00.000Z",
+    "originalLoanDate": "2018-06-11",
     "originalLoanAmount": 84620,
     "yearlyInterestRate": 2,
     "terms": 5,
@@ -36,7 +36,7 @@
     "paymentCutOff": 49
   },
   {
-    "originalLoanDate": "2019-08-06T00:00:00.000Z",
+    "originalLoanDate": "2019-08-06",
     "originalLoanAmount": 26064,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -45,7 +45,7 @@
     "paymentCutOff": 74
   },
   {
-    "originalLoanDate": "2019-08-06T00:00:00.000Z",
+    "originalLoanDate": "2019-08-06",
     "originalLoanAmount": 26064,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -54,7 +54,7 @@
     "paymentCutOff": 35
   },
   {
-    "originalLoanDate": "2020-07-23T00:00:00.000Z",
+    "originalLoanDate": "2020-07-23",
     "originalLoanAmount": 42851,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -63,7 +63,7 @@
     "paymentCutOff": 47
   },
   {
-    "originalLoanDate": "2020-07-23T00:00:00.000Z",
+    "originalLoanDate": "2020-07-23",
     "originalLoanAmount": 42851,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -72,7 +72,7 @@
     "paymentCutOff": 24
   },
   {
-    "originalLoanDate": "2017-01-14T00:00:00.000Z",
+    "originalLoanDate": "2017-01-14",
     "originalLoanAmount": 53429,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -81,7 +81,7 @@
     "paymentCutOff": 282
   },
   {
-    "originalLoanDate": "2017-01-14T00:00:00.000Z",
+    "originalLoanDate": "2017-01-14",
     "originalLoanAmount": 53429,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -90,7 +90,7 @@
     "paymentCutOff": 66
   },
   {
-    "originalLoanDate": "2021-12-01T00:00:00.000Z",
+    "originalLoanDate": "2021-12-01",
     "originalLoanAmount": 62426,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -99,7 +99,7 @@
     "paymentCutOff": 15
   },
   {
-    "originalLoanDate": "2021-12-01T00:00:00.000Z",
+    "originalLoanDate": "2021-12-01",
     "originalLoanAmount": 62426,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -108,7 +108,7 @@
     "paymentCutOff": 8
   },
   {
-    "originalLoanDate": "2017-10-11T00:00:00.000Z",
+    "originalLoanDate": "2017-10-11",
     "originalLoanAmount": 65217,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -117,7 +117,7 @@
     "paymentCutOff": 57
   },
   {
-    "originalLoanDate": "2017-10-11T00:00:00.000Z",
+    "originalLoanDate": "2017-10-11",
     "originalLoanAmount": 65217,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -126,7 +126,7 @@
     "paymentCutOff": 57
   },
   {
-    "originalLoanDate": "2017-10-10T00:00:00.000Z",
+    "originalLoanDate": "2017-10-10",
     "originalLoanAmount": 28772,
     "yearlyInterestRate": 2,
     "terms": 7,
@@ -135,7 +135,7 @@
     "paymentCutOff": 122
   },
   {
-    "originalLoanDate": "2017-10-10T00:00:00.000Z",
+    "originalLoanDate": "2017-10-10",
     "originalLoanAmount": 28772,
     "yearlyInterestRate": 2,
     "terms": 7,
@@ -144,7 +144,7 @@
     "paymentCutOff": 57
   },
   {
-    "originalLoanDate": "2022-05-08T00:00:00.000Z",
+    "originalLoanDate": "2022-05-08",
     "originalLoanAmount": 107482,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -153,7 +153,7 @@
     "paymentCutOff": 3
   },
   {
-    "originalLoanDate": "2022-05-08T00:00:00.000Z",
+    "originalLoanDate": "2022-05-08",
     "originalLoanAmount": 107482,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -162,7 +162,7 @@
     "paymentCutOff": 2
   },
   {
-    "originalLoanDate": "2021-12-29T00:00:00.000Z",
+    "originalLoanDate": "2021-12-29",
     "originalLoanAmount": 96770,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -171,7 +171,7 @@
     "paymentCutOff": 13
   },
   {
-    "originalLoanDate": "2021-12-29T00:00:00.000Z",
+    "originalLoanDate": "2021-12-29",
     "originalLoanAmount": 96770,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -180,7 +180,7 @@
     "paymentCutOff": 7
   },
   {
-    "originalLoanDate": "2017-02-14T00:00:00.000Z",
+    "originalLoanDate": "2017-02-14",
     "originalLoanAmount": 77882,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -189,7 +189,7 @@
     "paymentCutOff": 277
   },
   {
-    "originalLoanDate": "2017-02-14T00:00:00.000Z",
+    "originalLoanDate": "2017-02-14",
     "originalLoanAmount": 77882,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -198,7 +198,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2018-07-13T00:00:00.000Z",
+    "originalLoanDate": "2018-07-13",
     "originalLoanAmount": 64401,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -207,7 +207,7 @@
     "paymentCutOff": 95
   },
   {
-    "originalLoanDate": "2018-07-13T00:00:00.000Z",
+    "originalLoanDate": "2018-07-13",
     "originalLoanAmount": 64401,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -216,7 +216,7 @@
     "paymentCutOff": 48
   },
   {
-    "originalLoanDate": "2020-05-31T00:00:00.000Z",
+    "originalLoanDate": "2020-05-31",
     "originalLoanAmount": 13983,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -225,7 +225,7 @@
     "paymentCutOff": 108
   },
   {
-    "originalLoanDate": "2020-05-31T00:00:00.000Z",
+    "originalLoanDate": "2020-05-31",
     "originalLoanAmount": 13983,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -234,7 +234,7 @@
     "paymentCutOff": 26
   },
   {
-    "originalLoanDate": "2022-02-07T00:00:00.000Z",
+    "originalLoanDate": "2022-02-07",
     "originalLoanAmount": 78861,
     "yearlyInterestRate": 2,
     "terms": 10,
@@ -243,7 +243,7 @@
     "paymentCutOff": 5
   },
   {
-    "originalLoanDate": "2022-02-07T00:00:00.000Z",
+    "originalLoanDate": "2022-02-07",
     "originalLoanAmount": 78861,
     "yearlyInterestRate": 2,
     "terms": 10,
@@ -252,7 +252,7 @@
     "paymentCutOff": 5
   },
   {
-    "originalLoanDate": "2021-02-06T00:00:00.000Z",
+    "originalLoanDate": "2021-02-06",
     "originalLoanAmount": 18919,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -261,7 +261,7 @@
     "paymentCutOff": 17
   },
   {
-    "originalLoanDate": "2021-02-06T00:00:00.000Z",
+    "originalLoanDate": "2021-02-06",
     "originalLoanAmount": 18919,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -270,7 +270,7 @@
     "paymentCutOff": 17
   },
   {
-    "originalLoanDate": "2022-05-24T00:00:00.000Z",
+    "originalLoanDate": "2022-05-24",
     "originalLoanAmount": 29816,
     "yearlyInterestRate": 4,
     "terms": 30,
@@ -279,7 +279,7 @@
     "paymentCutOff": 3
   },
   {
-    "originalLoanDate": "2022-05-24T00:00:00.000Z",
+    "originalLoanDate": "2022-05-24",
     "originalLoanAmount": 29816,
     "yearlyInterestRate": 4,
     "terms": 30,
@@ -288,7 +288,7 @@
     "paymentCutOff": 2
   },
   {
-    "originalLoanDate": "2017-02-27T00:00:00.000Z",
+    "originalLoanDate": "2017-02-27",
     "originalLoanAmount": 40918,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -297,7 +297,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2017-02-27T00:00:00.000Z",
+    "originalLoanDate": "2017-02-27",
     "originalLoanAmount": 40918,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -306,7 +306,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2021-05-16T00:00:00.000Z",
+    "originalLoanDate": "2021-05-16",
     "originalLoanAmount": 56542,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -315,7 +315,7 @@
     "paymentCutOff": 28
   },
   {
-    "originalLoanDate": "2021-05-16T00:00:00.000Z",
+    "originalLoanDate": "2021-05-16",
     "originalLoanAmount": 56542,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -324,7 +324,7 @@
     "paymentCutOff": 14
   },
   {
-    "originalLoanDate": "2017-04-24T00:00:00.000Z",
+    "originalLoanDate": "2017-04-24",
     "originalLoanAmount": 66621,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -333,7 +333,7 @@
     "paymentCutOff": 125
   },
   {
-    "originalLoanDate": "2017-04-24T00:00:00.000Z",
+    "originalLoanDate": "2017-04-24",
     "originalLoanAmount": 66621,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -342,7 +342,7 @@
     "paymentCutOff": 63
   },
   {
-    "originalLoanDate": "2017-06-17T00:00:00.000Z",
+    "originalLoanDate": "2017-06-17",
     "originalLoanAmount": 32543,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -351,7 +351,7 @@
     "paymentCutOff": 131
   },
   {
-    "originalLoanDate": "2017-06-17T00:00:00.000Z",
+    "originalLoanDate": "2017-06-17",
     "originalLoanAmount": 32543,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -360,7 +360,7 @@
     "paymentCutOff": 61
   },
   {
-    "originalLoanDate": "2021-04-08T00:00:00.000Z",
+    "originalLoanDate": "2021-04-08",
     "originalLoanAmount": 99471,
     "yearlyInterestRate": 6,
     "terms": 10,
@@ -369,7 +369,7 @@
     "paymentCutOff": 60
   },
   {
-    "originalLoanDate": "2021-04-08T00:00:00.000Z",
+    "originalLoanDate": "2021-04-08",
     "originalLoanAmount": 99471,
     "yearlyInterestRate": 6,
     "terms": 10,
@@ -378,7 +378,7 @@
     "paymentCutOff": 15
   },
   {
-    "originalLoanDate": "2020-02-12T00:00:00.000Z",
+    "originalLoanDate": "2020-02-12",
     "originalLoanAmount": 12067,
     "yearlyInterestRate": 2,
     "terms": 3,
@@ -387,7 +387,7 @@
     "paymentCutOff": 57
   },
   {
-    "originalLoanDate": "2020-02-12T00:00:00.000Z",
+    "originalLoanDate": "2020-02-12",
     "originalLoanAmount": 12067,
     "yearlyInterestRate": 2,
     "terms": 3,
@@ -396,7 +396,7 @@
     "paymentCutOff": 29
   },
   {
-    "originalLoanDate": "2017-04-28T00:00:00.000Z",
+    "originalLoanDate": "2017-04-28",
     "originalLoanAmount": 58044,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -405,7 +405,7 @@
     "paymentCutOff": 135
   },
   {
-    "originalLoanDate": "2017-04-28T00:00:00.000Z",
+    "originalLoanDate": "2017-04-28",
     "originalLoanAmount": 58044,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -414,7 +414,7 @@
     "paymentCutOff": 63
   },
   {
-    "originalLoanDate": "2019-02-17T00:00:00.000Z",
+    "originalLoanDate": "2019-02-17",
     "originalLoanAmount": 46821,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -423,7 +423,7 @@
     "paymentCutOff": 173
   },
   {
-    "originalLoanDate": "2019-02-17T00:00:00.000Z",
+    "originalLoanDate": "2019-02-17",
     "originalLoanAmount": 46821,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -432,7 +432,7 @@
     "paymentCutOff": 41
   },
   {
-    "originalLoanDate": "2019-08-18T00:00:00.000Z",
+    "originalLoanDate": "2019-08-18",
     "originalLoanAmount": 24793,
     "yearlyInterestRate": 10,
     "terms": 10,
@@ -441,7 +441,7 @@
     "paymentCutOff": 69
   },
   {
-    "originalLoanDate": "2019-08-18T00:00:00.000Z",
+    "originalLoanDate": "2019-08-18",
     "originalLoanAmount": 24793,
     "yearlyInterestRate": 10,
     "terms": 10,
@@ -450,7 +450,7 @@
     "paymentCutOff": 35
   },
   {
-    "originalLoanDate": "2018-11-15T00:00:00.000Z",
+    "originalLoanDate": "2018-11-15",
     "originalLoanAmount": 89921,
     "yearlyInterestRate": 10,
     "terms": 30,
@@ -459,7 +459,7 @@
     "paymentCutOff": 87
   },
   {
-    "originalLoanDate": "2018-11-15T00:00:00.000Z",
+    "originalLoanDate": "2018-11-15",
     "originalLoanAmount": 89921,
     "yearlyInterestRate": 10,
     "terms": 30,
@@ -468,7 +468,7 @@
     "paymentCutOff": 44
   },
   {
-    "originalLoanDate": "2018-10-04T00:00:00.000Z",
+    "originalLoanDate": "2018-10-04",
     "originalLoanAmount": 18877,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -477,7 +477,7 @@
     "paymentCutOff": 190
   },
   {
-    "originalLoanDate": "2018-10-04T00:00:00.000Z",
+    "originalLoanDate": "2018-10-04",
     "originalLoanAmount": 18877,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -486,7 +486,7 @@
     "paymentCutOff": 45
   },
   {
-    "originalLoanDate": "2018-10-01T00:00:00.000Z",
+    "originalLoanDate": "2018-10-01",
     "originalLoanAmount": 104535,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -495,7 +495,7 @@
     "paymentCutOff": 46
   },
   {
-    "originalLoanDate": "2018-10-01T00:00:00.000Z",
+    "originalLoanDate": "2018-10-01",
     "originalLoanAmount": 104535,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -504,7 +504,7 @@
     "paymentCutOff": 46
   },
   {
-    "originalLoanDate": "2020-01-26T00:00:00.000Z",
+    "originalLoanDate": "2020-01-26",
     "originalLoanAmount": 37337,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -513,7 +513,7 @@
     "paymentCutOff": 59
   },
   {
-    "originalLoanDate": "2020-01-26T00:00:00.000Z",
+    "originalLoanDate": "2020-01-26",
     "originalLoanAmount": 37337,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -522,7 +522,7 @@
     "paymentCutOff": 30
   },
   {
-    "originalLoanDate": "2017-11-04T00:00:00.000Z",
+    "originalLoanDate": "2017-11-04",
     "originalLoanAmount": 37199,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -531,7 +531,7 @@
     "paymentCutOff": 111
   },
   {
-    "originalLoanDate": "2017-11-04T00:00:00.000Z",
+    "originalLoanDate": "2017-11-04",
     "originalLoanAmount": 37199,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -540,7 +540,7 @@
     "paymentCutOff": 56
   },
   {
-    "originalLoanDate": "2021-04-27T00:00:00.000Z",
+    "originalLoanDate": "2021-04-27",
     "originalLoanAmount": 71455,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -549,7 +549,7 @@
     "paymentCutOff": 31
   },
   {
-    "originalLoanDate": "2021-04-27T00:00:00.000Z",
+    "originalLoanDate": "2021-04-27",
     "originalLoanAmount": 71455,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -558,7 +558,7 @@
     "paymentCutOff": 15
   },
   {
-    "originalLoanDate": "2021-09-01T00:00:00.000Z",
+    "originalLoanDate": "2021-09-01",
     "originalLoanAmount": 98892,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -567,7 +567,7 @@
     "paymentCutOff": 22
   },
   {
-    "originalLoanDate": "2021-09-01T00:00:00.000Z",
+    "originalLoanDate": "2021-09-01",
     "originalLoanAmount": 98892,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -576,7 +576,7 @@
     "paymentCutOff": 11
   },
   {
-    "originalLoanDate": "2021-01-14T00:00:00.000Z",
+    "originalLoanDate": "2021-01-14",
     "originalLoanAmount": 21384,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -585,7 +585,7 @@
     "paymentCutOff": 18
   },
   {
-    "originalLoanDate": "2021-01-14T00:00:00.000Z",
+    "originalLoanDate": "2021-01-14",
     "originalLoanAmount": 21384,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -594,7 +594,7 @@
     "paymentCutOff": 18
   },
   {
-    "originalLoanDate": "2017-07-31T00:00:00.000Z",
+    "originalLoanDate": "2017-07-31",
     "originalLoanAmount": 92214,
     "yearlyInterestRate": 6,
     "terms": 7,
@@ -603,7 +603,7 @@
     "paymentCutOff": 119
   },
   {
-    "originalLoanDate": "2017-07-31T00:00:00.000Z",
+    "originalLoanDate": "2017-07-31",
     "originalLoanAmount": 92214,
     "yearlyInterestRate": 6,
     "terms": 7,
@@ -612,7 +612,7 @@
     "paymentCutOff": 60
   },
   {
-    "originalLoanDate": "2021-07-31T00:00:00.000Z",
+    "originalLoanDate": "2021-07-31",
     "originalLoanAmount": 21715,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -621,7 +621,7 @@
     "paymentCutOff": 23
   },
   {
-    "originalLoanDate": "2021-07-31T00:00:00.000Z",
+    "originalLoanDate": "2021-07-31",
     "originalLoanAmount": 21715,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -630,7 +630,7 @@
     "paymentCutOff": 12
   },
   {
-    "originalLoanDate": "2018-09-18T00:00:00.000Z",
+    "originalLoanDate": "2018-09-18",
     "originalLoanAmount": 23569,
     "yearlyInterestRate": 6,
     "terms": 20,
@@ -639,7 +639,7 @@
     "paymentCutOff": 91
   },
   {
-    "originalLoanDate": "2018-09-18T00:00:00.000Z",
+    "originalLoanDate": "2018-09-18",
     "originalLoanAmount": 23569,
     "yearlyInterestRate": 6,
     "terms": 20,
@@ -648,7 +648,7 @@
     "paymentCutOff": 46
   },
   {
-    "originalLoanDate": "2022-05-11T00:00:00.000Z",
+    "originalLoanDate": "2022-05-11",
     "originalLoanAmount": 53748,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -657,7 +657,7 @@
     "paymentCutOff": 2
   },
   {
-    "originalLoanDate": "2022-05-11T00:00:00.000Z",
+    "originalLoanDate": "2022-05-11",
     "originalLoanAmount": 53748,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -666,7 +666,7 @@
     "paymentCutOff": 2
   },
   {
-    "originalLoanDate": "2017-06-26T00:00:00.000Z",
+    "originalLoanDate": "2017-06-26",
     "originalLoanAmount": 22492,
     "yearlyInterestRate": 4,
     "terms": 3,
@@ -675,7 +675,7 @@
     "paymentCutOff": 121
   },
   {
-    "originalLoanDate": "2017-06-26T00:00:00.000Z",
+    "originalLoanDate": "2017-06-26",
     "originalLoanAmount": 22492,
     "yearlyInterestRate": 4,
     "terms": 3,
@@ -684,7 +684,7 @@
     "paymentCutOff": 61
   },
   {
-    "originalLoanDate": "2018-10-07T00:00:00.000Z",
+    "originalLoanDate": "2018-10-07",
     "originalLoanAmount": 109279,
     "yearlyInterestRate": 2,
     "terms": 7,
@@ -693,7 +693,7 @@
     "paymentCutOff": 45
   },
   {
-    "originalLoanDate": "2018-10-07T00:00:00.000Z",
+    "originalLoanDate": "2018-10-07",
     "originalLoanAmount": 109279,
     "yearlyInterestRate": 2,
     "terms": 7,
@@ -702,7 +702,7 @@
     "paymentCutOff": 45
   },
   {
-    "originalLoanDate": "2019-09-11T00:00:00.000Z",
+    "originalLoanDate": "2019-09-11",
     "originalLoanAmount": 81005,
     "yearlyInterestRate": 4,
     "terms": 20,
@@ -711,7 +711,7 @@
     "paymentCutOff": 67
   },
   {
-    "originalLoanDate": "2019-09-11T00:00:00.000Z",
+    "originalLoanDate": "2019-09-11",
     "originalLoanAmount": 81005,
     "yearlyInterestRate": 4,
     "terms": 20,
@@ -720,7 +720,7 @@
     "paymentCutOff": 34
   },
   {
-    "originalLoanDate": "2022-04-09T00:00:00.000Z",
+    "originalLoanDate": "2022-04-09",
     "originalLoanAmount": 85386,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -729,7 +729,7 @@
     "paymentCutOff": 4
   },
   {
-    "originalLoanDate": "2022-04-09T00:00:00.000Z",
+    "originalLoanDate": "2022-04-09",
     "originalLoanAmount": 85386,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -738,7 +738,7 @@
     "paymentCutOff": 3
   },
   {
-    "originalLoanDate": "2019-01-18T00:00:00.000Z",
+    "originalLoanDate": "2019-01-18",
     "originalLoanAmount": 59004,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -747,7 +747,7 @@
     "paymentCutOff": 89
   },
   {
-    "originalLoanDate": "2019-01-18T00:00:00.000Z",
+    "originalLoanDate": "2019-01-18",
     "originalLoanAmount": 59004,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -756,7 +756,7 @@
     "paymentCutOff": 42
   },
   {
-    "originalLoanDate": "2021-09-24T00:00:00.000Z",
+    "originalLoanDate": "2021-09-24",
     "originalLoanAmount": 89826,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -765,7 +765,7 @@
     "paymentCutOff": 10
   },
   {
-    "originalLoanDate": "2021-09-24T00:00:00.000Z",
+    "originalLoanDate": "2021-09-24",
     "originalLoanAmount": 89826,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -774,7 +774,7 @@
     "paymentCutOff": 10
   },
   {
-    "originalLoanDate": "2019-01-07T00:00:00.000Z",
+    "originalLoanDate": "2019-01-07",
     "originalLoanAmount": 93917,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -783,7 +783,7 @@
     "paymentCutOff": 89
   },
   {
-    "originalLoanDate": "2019-01-07T00:00:00.000Z",
+    "originalLoanDate": "2019-01-07",
     "originalLoanAmount": 93917,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -792,7 +792,7 @@
     "paymentCutOff": 42
   },
   {
-    "originalLoanDate": "2021-12-16T00:00:00.000Z",
+    "originalLoanDate": "2021-12-16",
     "originalLoanAmount": 86138,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -801,7 +801,7 @@
     "paymentCutOff": 25
   },
   {
-    "originalLoanDate": "2021-12-16T00:00:00.000Z",
+    "originalLoanDate": "2021-12-16",
     "originalLoanAmount": 86138,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -810,7 +810,7 @@
     "paymentCutOff": 7
   },
   {
-    "originalLoanDate": "2019-09-24T00:00:00.000Z",
+    "originalLoanDate": "2019-09-24",
     "originalLoanAmount": 33363,
     "yearlyInterestRate": 6,
     "terms": 10,
@@ -819,7 +819,7 @@
     "paymentCutOff": 34
   },
   {
-    "originalLoanDate": "2019-09-24T00:00:00.000Z",
+    "originalLoanDate": "2019-09-24",
     "originalLoanAmount": 33363,
     "yearlyInterestRate": 6,
     "terms": 10,
@@ -828,7 +828,7 @@
     "paymentCutOff": 34
   },
   {
-    "originalLoanDate": "2017-05-20T00:00:00.000Z",
+    "originalLoanDate": "2017-05-20",
     "originalLoanAmount": 69938,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -837,7 +837,7 @@
     "paymentCutOff": 123
   },
   {
-    "originalLoanDate": "2017-05-20T00:00:00.000Z",
+    "originalLoanDate": "2017-05-20",
     "originalLoanAmount": 69938,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -846,7 +846,7 @@
     "paymentCutOff": 62
   },
   {
-    "originalLoanDate": "2019-04-23T00:00:00.000Z",
+    "originalLoanDate": "2019-04-23",
     "originalLoanAmount": 46943,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -855,7 +855,7 @@
     "paymentCutOff": 164
   },
   {
-    "originalLoanDate": "2019-04-23T00:00:00.000Z",
+    "originalLoanDate": "2019-04-23",
     "originalLoanAmount": 46943,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -864,7 +864,7 @@
     "paymentCutOff": 39
   },
   {
-    "originalLoanDate": "2020-12-13T00:00:00.000Z",
+    "originalLoanDate": "2020-12-13",
     "originalLoanAmount": 30454,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -873,7 +873,7 @@
     "paymentCutOff": 19
   },
   {
-    "originalLoanDate": "2020-12-13T00:00:00.000Z",
+    "originalLoanDate": "2020-12-13",
     "originalLoanAmount": 30454,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -882,7 +882,7 @@
     "paymentCutOff": 19
   },
   {
-    "originalLoanDate": "2018-03-04T00:00:00.000Z",
+    "originalLoanDate": "2018-03-04",
     "originalLoanAmount": 22414,
     "yearlyInterestRate": 2,
     "terms": 7,
@@ -891,7 +891,7 @@
     "paymentCutOff": 103
   },
   {
-    "originalLoanDate": "2018-03-04T00:00:00.000Z",
+    "originalLoanDate": "2018-03-04",
     "originalLoanAmount": 22414,
     "yearlyInterestRate": 2,
     "terms": 7,
@@ -900,7 +900,7 @@
     "paymentCutOff": 52
   },
   {
-    "originalLoanDate": "2021-07-02T00:00:00.000Z",
+    "originalLoanDate": "2021-07-02",
     "originalLoanAmount": 36824,
     "yearlyInterestRate": 6,
     "terms": 10,
@@ -909,7 +909,7 @@
     "paymentCutOff": 24
   },
   {
-    "originalLoanDate": "2021-07-02T00:00:00.000Z",
+    "originalLoanDate": "2021-07-02",
     "originalLoanAmount": 36824,
     "yearlyInterestRate": 6,
     "terms": 10,
@@ -918,7 +918,7 @@
     "paymentCutOff": 12
   },
   {
-    "originalLoanDate": "2022-02-28T00:00:00.000Z",
+    "originalLoanDate": "2022-02-28",
     "originalLoanAmount": 29355,
     "yearlyInterestRate": 2,
     "terms": 15,
@@ -927,7 +927,7 @@
     "paymentCutOff": 9
   },
   {
-    "originalLoanDate": "2022-02-28T00:00:00.000Z",
+    "originalLoanDate": "2022-02-28",
     "originalLoanAmount": 29355,
     "yearlyInterestRate": 2,
     "terms": 15,
@@ -936,7 +936,7 @@
     "paymentCutOff": 5
   },
   {
-    "originalLoanDate": "2021-11-30T00:00:00.000Z",
+    "originalLoanDate": "2021-11-30",
     "originalLoanAmount": 58815,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -945,7 +945,7 @@
     "paymentCutOff": 15
   },
   {
-    "originalLoanDate": "2021-11-30T00:00:00.000Z",
+    "originalLoanDate": "2021-11-30",
     "originalLoanAmount": 58815,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -954,7 +954,7 @@
     "paymentCutOff": 8
   },
   {
-    "originalLoanDate": "2017-11-24T00:00:00.000Z",
+    "originalLoanDate": "2017-11-24",
     "originalLoanAmount": 58577,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -963,7 +963,7 @@
     "paymentCutOff": 111
   },
   {
-    "originalLoanDate": "2017-11-24T00:00:00.000Z",
+    "originalLoanDate": "2017-11-24",
     "originalLoanAmount": 58577,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -972,7 +972,7 @@
     "paymentCutOff": 56
   },
   {
-    "originalLoanDate": "2018-07-19T00:00:00.000Z",
+    "originalLoanDate": "2018-07-19",
     "originalLoanAmount": 27545,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -981,7 +981,7 @@
     "paymentCutOff": 95
   },
   {
-    "originalLoanDate": "2018-07-19T00:00:00.000Z",
+    "originalLoanDate": "2018-07-19",
     "originalLoanAmount": 27545,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -990,7 +990,7 @@
     "paymentCutOff": 48
   },
   {
-    "originalLoanDate": "2020-04-13T00:00:00.000Z",
+    "originalLoanDate": "2020-04-13",
     "originalLoanAmount": 20150,
     "yearlyInterestRate": 8,
     "terms": 3,
@@ -999,7 +999,7 @@
     "paymentCutOff": 27
   },
   {
-    "originalLoanDate": "2020-04-13T00:00:00.000Z",
+    "originalLoanDate": "2020-04-13",
     "originalLoanAmount": 20150,
     "yearlyInterestRate": 8,
     "terms": 3,
@@ -1008,7 +1008,7 @@
     "paymentCutOff": 27
   },
   {
-    "originalLoanDate": "2017-11-21T00:00:00.000Z",
+    "originalLoanDate": "2017-11-21",
     "originalLoanAmount": 24545,
     "yearlyInterestRate": 10,
     "terms": 20,
@@ -1017,7 +1017,7 @@
     "paymentCutOff": 111
   },
   {
-    "originalLoanDate": "2017-11-21T00:00:00.000Z",
+    "originalLoanDate": "2017-11-21",
     "originalLoanAmount": 24545,
     "yearlyInterestRate": 10,
     "terms": 20,
@@ -1026,7 +1026,7 @@
     "paymentCutOff": 56
   },
   {
-    "originalLoanDate": "2020-12-25T00:00:00.000Z",
+    "originalLoanDate": "2020-12-25",
     "originalLoanAmount": 84879,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -1035,7 +1035,7 @@
     "paymentCutOff": 77
   },
   {
-    "originalLoanDate": "2020-12-25T00:00:00.000Z",
+    "originalLoanDate": "2020-12-25",
     "originalLoanAmount": 84879,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -1044,7 +1044,7 @@
     "paymentCutOff": 19
   },
   {
-    "originalLoanDate": "2020-09-11T00:00:00.000Z",
+    "originalLoanDate": "2020-09-11",
     "originalLoanAmount": 95113,
     "yearlyInterestRate": 2,
     "terms": 10,
@@ -1053,7 +1053,7 @@
     "paymentCutOff": 22
   },
   {
-    "originalLoanDate": "2020-09-11T00:00:00.000Z",
+    "originalLoanDate": "2020-09-11",
     "originalLoanAmount": 95113,
     "yearlyInterestRate": 2,
     "terms": 10,
@@ -1062,7 +1062,7 @@
     "paymentCutOff": 22
   },
   {
-    "originalLoanDate": "2019-07-11T00:00:00.000Z",
+    "originalLoanDate": "2019-07-11",
     "originalLoanAmount": 67559,
     "yearlyInterestRate": 2,
     "terms": 3,
@@ -1071,7 +1071,7 @@
     "paymentCutOff": 76
   },
   {
-    "originalLoanDate": "2019-07-11T00:00:00.000Z",
+    "originalLoanDate": "2019-07-11",
     "originalLoanAmount": 67559,
     "yearlyInterestRate": 2,
     "terms": 3,
@@ -1080,7 +1080,7 @@
     "paymentCutOff": 36
   },
   {
-    "originalLoanDate": "2019-11-01T00:00:00.000Z",
+    "originalLoanDate": "2019-11-01",
     "originalLoanAmount": 33143,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -1089,7 +1089,7 @@
     "paymentCutOff": 33
   },
   {
-    "originalLoanDate": "2019-11-01T00:00:00.000Z",
+    "originalLoanDate": "2019-11-01",
     "originalLoanAmount": 33143,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -1098,7 +1098,7 @@
     "paymentCutOff": 33
   },
   {
-    "originalLoanDate": "2020-06-07T00:00:00.000Z",
+    "originalLoanDate": "2020-06-07",
     "originalLoanAmount": 42957,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1107,7 +1107,7 @@
     "paymentCutOff": 49
   },
   {
-    "originalLoanDate": "2020-06-07T00:00:00.000Z",
+    "originalLoanDate": "2020-06-07",
     "originalLoanAmount": 42957,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1116,7 +1116,7 @@
     "paymentCutOff": 25
   },
   {
-    "originalLoanDate": "2018-05-29T00:00:00.000Z",
+    "originalLoanDate": "2018-05-29",
     "originalLoanAmount": 104658,
     "yearlyInterestRate": 6,
     "terms": 20,
@@ -1125,7 +1125,7 @@
     "paymentCutOff": 212
   },
   {
-    "originalLoanDate": "2018-05-29T00:00:00.000Z",
+    "originalLoanDate": "2018-05-29",
     "originalLoanAmount": 104658,
     "yearlyInterestRate": 6,
     "terms": 20,
@@ -1134,7 +1134,7 @@
     "paymentCutOff": 50
   },
   {
-    "originalLoanDate": "2021-06-12T00:00:00.000Z",
+    "originalLoanDate": "2021-06-12",
     "originalLoanAmount": 80512,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -1143,7 +1143,7 @@
     "paymentCutOff": 13
   },
   {
-    "originalLoanDate": "2021-06-12T00:00:00.000Z",
+    "originalLoanDate": "2021-06-12",
     "originalLoanAmount": 80512,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -1152,7 +1152,7 @@
     "paymentCutOff": 13
   },
   {
-    "originalLoanDate": "2020-05-22T00:00:00.000Z",
+    "originalLoanDate": "2020-05-22",
     "originalLoanAmount": 34058,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -1161,7 +1161,7 @@
     "paymentCutOff": 108
   },
   {
-    "originalLoanDate": "2020-05-22T00:00:00.000Z",
+    "originalLoanDate": "2020-05-22",
     "originalLoanAmount": 34058,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -1170,7 +1170,7 @@
     "paymentCutOff": 26
   },
   {
-    "originalLoanDate": "2020-05-13T00:00:00.000Z",
+    "originalLoanDate": "2020-05-13",
     "originalLoanAmount": 59195,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -1179,7 +1179,7 @@
     "paymentCutOff": 51
   },
   {
-    "originalLoanDate": "2020-05-13T00:00:00.000Z",
+    "originalLoanDate": "2020-05-13",
     "originalLoanAmount": 59195,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -1188,7 +1188,7 @@
     "paymentCutOff": 26
   },
   {
-    "originalLoanDate": "2017-08-23T00:00:00.000Z",
+    "originalLoanDate": "2017-08-23",
     "originalLoanAmount": 78806,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -1197,7 +1197,7 @@
     "paymentCutOff": 126
   },
   {
-    "originalLoanDate": "2017-08-23T00:00:00.000Z",
+    "originalLoanDate": "2017-08-23",
     "originalLoanAmount": 78806,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -1206,7 +1206,7 @@
     "paymentCutOff": 59
   },
   {
-    "originalLoanDate": "2020-03-08T00:00:00.000Z",
+    "originalLoanDate": "2020-03-08",
     "originalLoanAmount": 19055,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -1215,7 +1215,7 @@
     "paymentCutOff": 28
   },
   {
-    "originalLoanDate": "2020-03-08T00:00:00.000Z",
+    "originalLoanDate": "2020-03-08",
     "originalLoanAmount": 19055,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -1224,7 +1224,7 @@
     "paymentCutOff": 28
   },
   {
-    "originalLoanDate": "2021-11-23T00:00:00.000Z",
+    "originalLoanDate": "2021-11-23",
     "originalLoanAmount": 72102,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -1233,7 +1233,7 @@
     "paymentCutOff": 15
   },
   {
-    "originalLoanDate": "2021-11-23T00:00:00.000Z",
+    "originalLoanDate": "2021-11-23",
     "originalLoanAmount": 72102,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -1242,7 +1242,7 @@
     "paymentCutOff": 8
   },
   {
-    "originalLoanDate": "2021-10-21T00:00:00.000Z",
+    "originalLoanDate": "2021-10-21",
     "originalLoanAmount": 66198,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -1251,7 +1251,7 @@
     "paymentCutOff": 17
   },
   {
-    "originalLoanDate": "2021-10-21T00:00:00.000Z",
+    "originalLoanDate": "2021-10-21",
     "originalLoanAmount": 66198,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -1260,7 +1260,7 @@
     "paymentCutOff": 9
   },
   {
-    "originalLoanDate": "2020-04-25T00:00:00.000Z",
+    "originalLoanDate": "2020-04-25",
     "originalLoanAmount": 19193,
     "yearlyInterestRate": 2,
     "terms": 20,
@@ -1269,7 +1269,7 @@
     "paymentCutOff": 27
   },
   {
-    "originalLoanDate": "2020-04-25T00:00:00.000Z",
+    "originalLoanDate": "2020-04-25",
     "originalLoanAmount": 19193,
     "yearlyInterestRate": 2,
     "terms": 20,
@@ -1278,7 +1278,7 @@
     "paymentCutOff": 27
   },
   {
-    "originalLoanDate": "2020-06-25T00:00:00.000Z",
+    "originalLoanDate": "2020-06-25",
     "originalLoanAmount": 71203,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -1287,7 +1287,7 @@
     "paymentCutOff": 52
   },
   {
-    "originalLoanDate": "2020-06-25T00:00:00.000Z",
+    "originalLoanDate": "2020-06-25",
     "originalLoanAmount": 71203,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -1296,7 +1296,7 @@
     "paymentCutOff": 25
   },
   {
-    "originalLoanDate": "2021-03-12T00:00:00.000Z",
+    "originalLoanDate": "2021-03-12",
     "originalLoanAmount": 70193,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -1305,7 +1305,7 @@
     "paymentCutOff": 33
   },
   {
-    "originalLoanDate": "2021-03-12T00:00:00.000Z",
+    "originalLoanDate": "2021-03-12",
     "originalLoanAmount": 70193,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -1314,7 +1314,7 @@
     "paymentCutOff": 16
   },
   {
-    "originalLoanDate": "2018-12-07T00:00:00.000Z",
+    "originalLoanDate": "2018-12-07",
     "originalLoanAmount": 35581,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1323,7 +1323,7 @@
     "paymentCutOff": 85
   },
   {
-    "originalLoanDate": "2018-12-07T00:00:00.000Z",
+    "originalLoanDate": "2018-12-07",
     "originalLoanAmount": 35581,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1332,7 +1332,7 @@
     "paymentCutOff": 43
   },
   {
-    "originalLoanDate": "2020-10-09T00:00:00.000Z",
+    "originalLoanDate": "2020-10-09",
     "originalLoanAmount": 56086,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -1341,7 +1341,7 @@
     "paymentCutOff": 21
   },
   {
-    "originalLoanDate": "2020-10-09T00:00:00.000Z",
+    "originalLoanDate": "2020-10-09",
     "originalLoanAmount": 56086,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -1350,7 +1350,7 @@
     "paymentCutOff": 21
   },
   {
-    "originalLoanDate": "2017-07-28T00:00:00.000Z",
+    "originalLoanDate": "2017-07-28",
     "originalLoanAmount": 26371,
     "yearlyInterestRate": 10,
     "terms": 30,
@@ -1359,7 +1359,7 @@
     "paymentCutOff": 256
   },
   {
-    "originalLoanDate": "2017-07-28T00:00:00.000Z",
+    "originalLoanDate": "2017-07-28",
     "originalLoanAmount": 26371,
     "yearlyInterestRate": 10,
     "terms": 30,
@@ -1368,7 +1368,7 @@
     "paymentCutOff": 60
   },
   {
-    "originalLoanDate": "2020-08-17T00:00:00.000Z",
+    "originalLoanDate": "2020-08-17",
     "originalLoanAmount": 26041,
     "yearlyInterestRate": 4,
     "terms": 30,
@@ -1377,7 +1377,7 @@
     "paymentCutOff": 45
   },
   {
-    "originalLoanDate": "2020-08-17T00:00:00.000Z",
+    "originalLoanDate": "2020-08-17",
     "originalLoanAmount": 26041,
     "yearlyInterestRate": 4,
     "terms": 30,
@@ -1386,7 +1386,7 @@
     "paymentCutOff": 23
   },
   {
-    "originalLoanDate": "2017-02-24T00:00:00.000Z",
+    "originalLoanDate": "2017-02-24",
     "originalLoanAmount": 59754,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1395,7 +1395,7 @@
     "paymentCutOff": 277
   },
   {
-    "originalLoanDate": "2017-02-24T00:00:00.000Z",
+    "originalLoanDate": "2017-02-24",
     "originalLoanAmount": 59754,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1404,7 +1404,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2021-12-21T00:00:00.000Z",
+    "originalLoanDate": "2021-12-21",
     "originalLoanAmount": 72798,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -1413,7 +1413,7 @@
     "paymentCutOff": 13
   },
   {
-    "originalLoanDate": "2021-12-21T00:00:00.000Z",
+    "originalLoanDate": "2021-12-21",
     "originalLoanAmount": 72798,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -1422,7 +1422,7 @@
     "paymentCutOff": 7
   },
   {
-    "originalLoanDate": "2018-10-12T00:00:00.000Z",
+    "originalLoanDate": "2018-10-12",
     "originalLoanAmount": 11315,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -1431,7 +1431,7 @@
     "paymentCutOff": 96
   },
   {
-    "originalLoanDate": "2018-10-12T00:00:00.000Z",
+    "originalLoanDate": "2018-10-12",
     "originalLoanAmount": 11315,
     "yearlyInterestRate": 10,
     "terms": 7,
@@ -1440,7 +1440,7 @@
     "paymentCutOff": 45
   },
   {
-    "originalLoanDate": "2018-12-13T00:00:00.000Z",
+    "originalLoanDate": "2018-12-13",
     "originalLoanAmount": 74912,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1449,7 +1449,7 @@
     "paymentCutOff": 85
   },
   {
-    "originalLoanDate": "2018-12-13T00:00:00.000Z",
+    "originalLoanDate": "2018-12-13",
     "originalLoanAmount": 74912,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1458,7 +1458,7 @@
     "paymentCutOff": 43
   },
   {
-    "originalLoanDate": "2021-10-06T00:00:00.000Z",
+    "originalLoanDate": "2021-10-06",
     "originalLoanAmount": 85795,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -1467,7 +1467,7 @@
     "paymentCutOff": 17
   },
   {
-    "originalLoanDate": "2021-10-06T00:00:00.000Z",
+    "originalLoanDate": "2021-10-06",
     "originalLoanAmount": 85795,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -1476,7 +1476,7 @@
     "paymentCutOff": 9
   },
   {
-    "originalLoanDate": "2018-01-11T00:00:00.000Z",
+    "originalLoanDate": "2018-01-11",
     "originalLoanAmount": 44508,
     "yearlyInterestRate": 10,
     "terms": 20,
@@ -1485,7 +1485,7 @@
     "paymentCutOff": 54
   },
   {
-    "originalLoanDate": "2018-01-11T00:00:00.000Z",
+    "originalLoanDate": "2018-01-11",
     "originalLoanAmount": 44508,
     "yearlyInterestRate": 10,
     "terms": 20,
@@ -1494,7 +1494,7 @@
     "paymentCutOff": 54
   },
   {
-    "originalLoanDate": "2020-01-06T00:00:00.000Z",
+    "originalLoanDate": "2020-01-06",
     "originalLoanAmount": 74399,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -1503,7 +1503,7 @@
     "paymentCutOff": 59
   },
   {
-    "originalLoanDate": "2020-01-06T00:00:00.000Z",
+    "originalLoanDate": "2020-01-06",
     "originalLoanAmount": 74399,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -1512,7 +1512,7 @@
     "paymentCutOff": 30
   },
   {
-    "originalLoanDate": "2020-03-12T00:00:00.000Z",
+    "originalLoanDate": "2020-03-12",
     "originalLoanAmount": 56704,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1521,7 +1521,7 @@
     "paymentCutOff": 55
   },
   {
-    "originalLoanDate": "2020-03-12T00:00:00.000Z",
+    "originalLoanDate": "2020-03-12",
     "originalLoanAmount": 56704,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -1530,7 +1530,7 @@
     "paymentCutOff": 28
   },
   {
-    "originalLoanDate": "2019-10-29T00:00:00.000Z",
+    "originalLoanDate": "2019-10-29",
     "originalLoanAmount": 68853,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -1539,7 +1539,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2019-10-29T00:00:00.000Z",
+    "originalLoanDate": "2019-10-29",
     "originalLoanAmount": 68853,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -1548,7 +1548,7 @@
     "paymentCutOff": 33
   },
   {
-    "originalLoanDate": "2017-02-21T00:00:00.000Z",
+    "originalLoanDate": "2017-02-21",
     "originalLoanAmount": 91132,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -1557,7 +1557,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2017-02-21T00:00:00.000Z",
+    "originalLoanDate": "2017-02-21",
     "originalLoanAmount": 91132,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -1566,7 +1566,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2017-12-15T00:00:00.000Z",
+    "originalLoanDate": "2017-12-15",
     "originalLoanAmount": 75760,
     "yearlyInterestRate": 8,
     "terms": 3,
@@ -1575,7 +1575,7 @@
     "paymentCutOff": 55
   },
   {
-    "originalLoanDate": "2017-12-15T00:00:00.000Z",
+    "originalLoanDate": "2017-12-15",
     "originalLoanAmount": 75760,
     "yearlyInterestRate": 8,
     "terms": 3,
@@ -1584,7 +1584,7 @@
     "paymentCutOff": 55
   },
   {
-    "originalLoanDate": "2018-11-22T00:00:00.000Z",
+    "originalLoanDate": "2018-11-22",
     "originalLoanAmount": 89223,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -1593,7 +1593,7 @@
     "paymentCutOff": 186
   },
   {
-    "originalLoanDate": "2018-11-22T00:00:00.000Z",
+    "originalLoanDate": "2018-11-22",
     "originalLoanAmount": 89223,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -1602,7 +1602,7 @@
     "paymentCutOff": 44
   },
   {
-    "originalLoanDate": "2017-10-28T00:00:00.000Z",
+    "originalLoanDate": "2017-10-28",
     "originalLoanAmount": 42593,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -1611,7 +1611,7 @@
     "paymentCutOff": 243
   },
   {
-    "originalLoanDate": "2017-10-28T00:00:00.000Z",
+    "originalLoanDate": "2017-10-28",
     "originalLoanAmount": 42593,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -1620,7 +1620,7 @@
     "paymentCutOff": 57
   },
   {
-    "originalLoanDate": "2020-10-17T00:00:00.000Z",
+    "originalLoanDate": "2020-10-17",
     "originalLoanAmount": 51943,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -1629,7 +1629,7 @@
     "paymentCutOff": 86
   },
   {
-    "originalLoanDate": "2020-10-17T00:00:00.000Z",
+    "originalLoanDate": "2020-10-17",
     "originalLoanAmount": 51943,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -1638,7 +1638,7 @@
     "paymentCutOff": 21
   },
   {
-    "originalLoanDate": "2020-10-06T00:00:00.000Z",
+    "originalLoanDate": "2020-10-06",
     "originalLoanAmount": 95641,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -1647,7 +1647,7 @@
     "paymentCutOff": 44
   },
   {
-    "originalLoanDate": "2020-10-06T00:00:00.000Z",
+    "originalLoanDate": "2020-10-06",
     "originalLoanAmount": 95641,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -1656,7 +1656,7 @@
     "paymentCutOff": 21
   },
   {
-    "originalLoanDate": "2018-04-20T00:00:00.000Z",
+    "originalLoanDate": "2018-04-20",
     "originalLoanAmount": 107500,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -1665,7 +1665,7 @@
     "paymentCutOff": 109
   },
   {
-    "originalLoanDate": "2018-04-20T00:00:00.000Z",
+    "originalLoanDate": "2018-04-20",
     "originalLoanAmount": 107500,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -1674,7 +1674,7 @@
     "paymentCutOff": 51
   },
   {
-    "originalLoanDate": "2018-04-02T00:00:00.000Z",
+    "originalLoanDate": "2018-04-02",
     "originalLoanAmount": 22283,
     "yearlyInterestRate": 4,
     "terms": 20,
@@ -1683,7 +1683,7 @@
     "paymentCutOff": 51
   },
   {
-    "originalLoanDate": "2018-04-02T00:00:00.000Z",
+    "originalLoanDate": "2018-04-02",
     "originalLoanAmount": 22283,
     "yearlyInterestRate": 4,
     "terms": 20,
@@ -1692,7 +1692,7 @@
     "paymentCutOff": 51
   },
   {
-    "originalLoanDate": "2020-05-30T00:00:00.000Z",
+    "originalLoanDate": "2020-05-30",
     "originalLoanAmount": 49852,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -1701,7 +1701,7 @@
     "paymentCutOff": 108
   },
   {
-    "originalLoanDate": "2020-05-30T00:00:00.000Z",
+    "originalLoanDate": "2020-05-30",
     "originalLoanAmount": 49852,
     "yearlyInterestRate": 6,
     "terms": 3,
@@ -1710,7 +1710,7 @@
     "paymentCutOff": 26
   },
   {
-    "originalLoanDate": "2019-09-01T00:00:00.000Z",
+    "originalLoanDate": "2019-09-01",
     "originalLoanAmount": 67726,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -1719,7 +1719,7 @@
     "paymentCutOff": 69
   },
   {
-    "originalLoanDate": "2019-09-01T00:00:00.000Z",
+    "originalLoanDate": "2019-09-01",
     "originalLoanAmount": 67726,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -1728,7 +1728,7 @@
     "paymentCutOff": 35
   },
   {
-    "originalLoanDate": "2020-01-14T00:00:00.000Z",
+    "originalLoanDate": "2020-01-14",
     "originalLoanAmount": 88146,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -1737,7 +1737,7 @@
     "paymentCutOff": 59
   },
   {
-    "originalLoanDate": "2020-01-14T00:00:00.000Z",
+    "originalLoanDate": "2020-01-14",
     "originalLoanAmount": 88146,
     "yearlyInterestRate": 4,
     "terms": 5,
@@ -1746,7 +1746,7 @@
     "paymentCutOff": 30
   },
   {
-    "originalLoanDate": "2018-02-09T00:00:00.000Z",
+    "originalLoanDate": "2018-02-09",
     "originalLoanAmount": 72273,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -1755,7 +1755,7 @@
     "paymentCutOff": 105
   },
   {
-    "originalLoanDate": "2018-02-09T00:00:00.000Z",
+    "originalLoanDate": "2018-02-09",
     "originalLoanAmount": 72273,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -1764,7 +1764,7 @@
     "paymentCutOff": 53
   },
   {
-    "originalLoanDate": "2019-07-08T00:00:00.000Z",
+    "originalLoanDate": "2019-07-08",
     "originalLoanAmount": 37083,
     "yearlyInterestRate": 6,
     "terms": 7,
@@ -1773,7 +1773,7 @@
     "paymentCutOff": 36
   },
   {
-    "originalLoanDate": "2019-07-08T00:00:00.000Z",
+    "originalLoanDate": "2019-07-08",
     "originalLoanAmount": 37083,
     "yearlyInterestRate": 6,
     "terms": 7,
@@ -1782,7 +1782,7 @@
     "paymentCutOff": 36
   },
   {
-    "originalLoanDate": "2021-08-11T00:00:00.000Z",
+    "originalLoanDate": "2021-08-11",
     "originalLoanAmount": 21429,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -1791,7 +1791,7 @@
     "paymentCutOff": 21
   },
   {
-    "originalLoanDate": "2021-08-11T00:00:00.000Z",
+    "originalLoanDate": "2021-08-11",
     "originalLoanAmount": 21429,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -1800,7 +1800,7 @@
     "paymentCutOff": 11
   },
   {
-    "originalLoanDate": "2017-08-27T00:00:00.000Z",
+    "originalLoanDate": "2017-08-27",
     "originalLoanAmount": 75686,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -1809,7 +1809,7 @@
     "paymentCutOff": 251
   },
   {
-    "originalLoanDate": "2017-08-27T00:00:00.000Z",
+    "originalLoanDate": "2017-08-27",
     "originalLoanAmount": 75686,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -1818,7 +1818,7 @@
     "paymentCutOff": 59
   },
   {
-    "originalLoanDate": "2017-03-01T00:00:00.000Z",
+    "originalLoanDate": "2017-03-01",
     "originalLoanAmount": 106785,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -1827,7 +1827,7 @@
     "paymentCutOff": 129
   },
   {
-    "originalLoanDate": "2017-03-01T00:00:00.000Z",
+    "originalLoanDate": "2017-03-01",
     "originalLoanAmount": 106785,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -1836,7 +1836,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2017-04-27T00:00:00.000Z",
+    "originalLoanDate": "2017-04-27",
     "originalLoanAmount": 51558,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -1845,7 +1845,7 @@
     "paymentCutOff": 269
   },
   {
-    "originalLoanDate": "2017-04-27T00:00:00.000Z",
+    "originalLoanDate": "2017-04-27",
     "originalLoanAmount": 51558,
     "yearlyInterestRate": 8,
     "terms": 7,
@@ -1854,7 +1854,7 @@
     "paymentCutOff": 63
   },
   {
-    "originalLoanDate": "2021-11-18T00:00:00.000Z",
+    "originalLoanDate": "2021-11-18",
     "originalLoanAmount": 67877,
     "yearlyInterestRate": 10,
     "terms": 10,
@@ -1863,7 +1863,7 @@
     "paymentCutOff": 29
   },
   {
-    "originalLoanDate": "2021-11-18T00:00:00.000Z",
+    "originalLoanDate": "2021-11-18",
     "originalLoanAmount": 67877,
     "yearlyInterestRate": 10,
     "terms": 10,
@@ -1872,7 +1872,7 @@
     "paymentCutOff": 8
   },
   {
-    "originalLoanDate": "2021-07-16T00:00:00.000Z",
+    "originalLoanDate": "2021-07-16",
     "originalLoanAmount": 53357,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -1881,7 +1881,7 @@
     "paymentCutOff": 23
   },
   {
-    "originalLoanDate": "2021-07-16T00:00:00.000Z",
+    "originalLoanDate": "2021-07-16",
     "originalLoanAmount": 53357,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -1890,7 +1890,7 @@
     "paymentCutOff": 12
   },
   {
-    "originalLoanDate": "2020-07-19T00:00:00.000Z",
+    "originalLoanDate": "2020-07-19",
     "originalLoanAmount": 29279,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -1899,7 +1899,7 @@
     "paymentCutOff": 24
   },
   {
-    "originalLoanDate": "2020-07-19T00:00:00.000Z",
+    "originalLoanDate": "2020-07-19",
     "originalLoanAmount": 29279,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -1908,7 +1908,7 @@
     "paymentCutOff": 24
   },
   {
-    "originalLoanDate": "2019-05-16T00:00:00.000Z",
+    "originalLoanDate": "2019-05-16",
     "originalLoanAmount": 55074,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -1917,7 +1917,7 @@
     "paymentCutOff": 75
   },
   {
-    "originalLoanDate": "2019-05-16T00:00:00.000Z",
+    "originalLoanDate": "2019-05-16",
     "originalLoanAmount": 55074,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -1926,7 +1926,7 @@
     "paymentCutOff": 38
   },
   {
-    "originalLoanDate": "2021-01-26T00:00:00.000Z",
+    "originalLoanDate": "2021-01-26",
     "originalLoanAmount": 106572,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -1935,7 +1935,7 @@
     "paymentCutOff": 37
   },
   {
-    "originalLoanDate": "2021-01-26T00:00:00.000Z",
+    "originalLoanDate": "2021-01-26",
     "originalLoanAmount": 106572,
     "yearlyInterestRate": 8,
     "terms": 15,
@@ -1944,7 +1944,7 @@
     "paymentCutOff": 18
   },
   {
-    "originalLoanDate": "2021-06-10T00:00:00.000Z",
+    "originalLoanDate": "2021-06-10",
     "originalLoanAmount": 12736,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -1953,7 +1953,7 @@
     "paymentCutOff": 25
   },
   {
-    "originalLoanDate": "2021-06-10T00:00:00.000Z",
+    "originalLoanDate": "2021-06-10",
     "originalLoanAmount": 12736,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -1962,7 +1962,7 @@
     "paymentCutOff": 13
   },
   {
-    "originalLoanDate": "2019-01-24T00:00:00.000Z",
+    "originalLoanDate": "2019-01-24",
     "originalLoanAmount": 67088,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -1971,7 +1971,7 @@
     "paymentCutOff": 42
   },
   {
-    "originalLoanDate": "2019-01-24T00:00:00.000Z",
+    "originalLoanDate": "2019-01-24",
     "originalLoanAmount": 67088,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -1980,7 +1980,7 @@
     "paymentCutOff": 42
   },
   {
-    "originalLoanDate": "2018-08-12T00:00:00.000Z",
+    "originalLoanDate": "2018-08-12",
     "originalLoanAmount": 94952,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -1989,7 +1989,7 @@
     "paymentCutOff": 100
   },
   {
-    "originalLoanDate": "2018-08-12T00:00:00.000Z",
+    "originalLoanDate": "2018-08-12",
     "originalLoanAmount": 94952,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -1998,7 +1998,7 @@
     "paymentCutOff": 47
   },
   {
-    "originalLoanDate": "2019-09-30T00:00:00.000Z",
+    "originalLoanDate": "2019-09-30",
     "originalLoanAmount": 60214,
     "yearlyInterestRate": 2,
     "terms": 7,
@@ -2007,7 +2007,7 @@
     "paymentCutOff": 67
   },
   {
-    "originalLoanDate": "2019-09-30T00:00:00.000Z",
+    "originalLoanDate": "2019-09-30",
     "originalLoanAmount": 60214,
     "yearlyInterestRate": 2,
     "terms": 7,
@@ -2016,7 +2016,7 @@
     "paymentCutOff": 34
   },
   {
-    "originalLoanDate": "2019-06-19T00:00:00.000Z",
+    "originalLoanDate": "2019-06-19",
     "originalLoanAmount": 100848,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -2025,7 +2025,7 @@
     "paymentCutOff": 37
   },
   {
-    "originalLoanDate": "2019-06-19T00:00:00.000Z",
+    "originalLoanDate": "2019-06-19",
     "originalLoanAmount": 100848,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -2034,7 +2034,7 @@
     "paymentCutOff": 37
   },
   {
-    "originalLoanDate": "2020-01-23T00:00:00.000Z",
+    "originalLoanDate": "2020-01-23",
     "originalLoanAmount": 62921,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -2043,7 +2043,7 @@
     "paymentCutOff": 59
   },
   {
-    "originalLoanDate": "2020-01-23T00:00:00.000Z",
+    "originalLoanDate": "2020-01-23",
     "originalLoanAmount": 62921,
     "yearlyInterestRate": 4,
     "terms": 7,
@@ -2052,7 +2052,7 @@
     "paymentCutOff": 30
   },
   {
-    "originalLoanDate": "2018-01-11T00:00:00.000Z",
+    "originalLoanDate": "2018-01-11",
     "originalLoanAmount": 19460,
     "yearlyInterestRate": 6,
     "terms": 7,
@@ -2061,7 +2061,7 @@
     "paymentCutOff": 230
   },
   {
-    "originalLoanDate": "2018-01-11T00:00:00.000Z",
+    "originalLoanDate": "2018-01-11",
     "originalLoanAmount": 19460,
     "yearlyInterestRate": 6,
     "terms": 7,
@@ -2070,7 +2070,7 @@
     "paymentCutOff": 54
   },
   {
-    "originalLoanDate": "2017-06-24T00:00:00.000Z",
+    "originalLoanDate": "2017-06-24",
     "originalLoanAmount": 52242,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -2079,7 +2079,7 @@
     "paymentCutOff": 131
   },
   {
-    "originalLoanDate": "2017-06-24T00:00:00.000Z",
+    "originalLoanDate": "2017-06-24",
     "originalLoanAmount": 52242,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -2088,7 +2088,7 @@
     "paymentCutOff": 61
   },
   {
-    "originalLoanDate": "2017-12-16T00:00:00.000Z",
+    "originalLoanDate": "2017-12-16",
     "originalLoanAmount": 29547,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -2097,7 +2097,7 @@
     "paymentCutOff": 109
   },
   {
-    "originalLoanDate": "2017-12-16T00:00:00.000Z",
+    "originalLoanDate": "2017-12-16",
     "originalLoanAmount": 29547,
     "yearlyInterestRate": 6,
     "terms": 15,
@@ -2106,7 +2106,7 @@
     "paymentCutOff": 55
   },
   {
-    "originalLoanDate": "2020-10-21T00:00:00.000Z",
+    "originalLoanDate": "2020-10-21",
     "originalLoanAmount": 44196,
     "yearlyInterestRate": 2,
     "terms": 3,
@@ -2115,7 +2115,7 @@
     "paymentCutOff": 41
   },
   {
-    "originalLoanDate": "2020-10-21T00:00:00.000Z",
+    "originalLoanDate": "2020-10-21",
     "originalLoanAmount": 44196,
     "yearlyInterestRate": 2,
     "terms": 3,
@@ -2124,7 +2124,7 @@
     "paymentCutOff": 21
   },
   {
-    "originalLoanDate": "2021-01-16T00:00:00.000Z",
+    "originalLoanDate": "2021-01-16",
     "originalLoanAmount": 75681,
     "yearlyInterestRate": 2,
     "terms": 3,
@@ -2133,7 +2133,7 @@
     "paymentCutOff": 18
   },
   {
-    "originalLoanDate": "2021-01-16T00:00:00.000Z",
+    "originalLoanDate": "2021-01-16",
     "originalLoanAmount": 75681,
     "yearlyInterestRate": 2,
     "terms": 3,
@@ -2142,7 +2142,7 @@
     "paymentCutOff": 18
   },
   {
-    "originalLoanDate": "2021-05-10T00:00:00.000Z",
+    "originalLoanDate": "2021-05-10",
     "originalLoanAmount": 74041,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -2151,7 +2151,7 @@
     "paymentCutOff": 56
   },
   {
-    "originalLoanDate": "2021-05-10T00:00:00.000Z",
+    "originalLoanDate": "2021-05-10",
     "originalLoanAmount": 74041,
     "yearlyInterestRate": 4,
     "terms": 10,
@@ -2160,7 +2160,7 @@
     "paymentCutOff": 14
   },
   {
-    "originalLoanDate": "2021-06-28T00:00:00.000Z",
+    "originalLoanDate": "2021-06-28",
     "originalLoanAmount": 105730,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -2169,7 +2169,7 @@
     "paymentCutOff": 51
   },
   {
-    "originalLoanDate": "2021-06-28T00:00:00.000Z",
+    "originalLoanDate": "2021-06-28",
     "originalLoanAmount": 105730,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -2178,7 +2178,7 @@
     "paymentCutOff": 13
   },
   {
-    "originalLoanDate": "2021-06-14T00:00:00.000Z",
+    "originalLoanDate": "2021-06-14",
     "originalLoanAmount": 97580,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -2187,7 +2187,7 @@
     "paymentCutOff": 26
   },
   {
-    "originalLoanDate": "2021-06-14T00:00:00.000Z",
+    "originalLoanDate": "2021-06-14",
     "originalLoanAmount": 97580,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -2196,7 +2196,7 @@
     "paymentCutOff": 13
   },
   {
-    "originalLoanDate": "2019-01-14T00:00:00.000Z",
+    "originalLoanDate": "2019-01-14",
     "originalLoanAmount": 108362,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -2205,7 +2205,7 @@
     "paymentCutOff": 89
   },
   {
-    "originalLoanDate": "2019-01-14T00:00:00.000Z",
+    "originalLoanDate": "2019-01-14",
     "originalLoanAmount": 108362,
     "yearlyInterestRate": 10,
     "terms": 5,
@@ -2214,7 +2214,7 @@
     "paymentCutOff": 42
   },
   {
-    "originalLoanDate": "2018-01-20T00:00:00.000Z",
+    "originalLoanDate": "2018-01-20",
     "originalLoanAmount": 69935,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -2223,7 +2223,7 @@
     "paymentCutOff": 230
   },
   {
-    "originalLoanDate": "2018-01-20T00:00:00.000Z",
+    "originalLoanDate": "2018-01-20",
     "originalLoanAmount": 69935,
     "yearlyInterestRate": 8,
     "terms": 20,
@@ -2232,7 +2232,7 @@
     "paymentCutOff": 54
   },
   {
-    "originalLoanDate": "2021-04-30T00:00:00.000Z",
+    "originalLoanDate": "2021-04-30",
     "originalLoanAmount": 82418,
     "yearlyInterestRate": 4,
     "terms": 20,
@@ -2241,7 +2241,7 @@
     "paymentCutOff": 15
   },
   {
-    "originalLoanDate": "2021-04-30T00:00:00.000Z",
+    "originalLoanDate": "2021-04-30",
     "originalLoanAmount": 82418,
     "yearlyInterestRate": 4,
     "terms": 20,
@@ -2250,7 +2250,7 @@
     "paymentCutOff": 15
   },
   {
-    "originalLoanDate": "2021-01-13T00:00:00.000Z",
+    "originalLoanDate": "2021-01-13",
     "originalLoanAmount": 85088,
     "yearlyInterestRate": 2,
     "terms": 20,
@@ -2259,7 +2259,7 @@
     "paymentCutOff": 35
   },
   {
-    "originalLoanDate": "2021-01-13T00:00:00.000Z",
+    "originalLoanDate": "2021-01-13",
     "originalLoanAmount": 85088,
     "yearlyInterestRate": 2,
     "terms": 20,
@@ -2268,7 +2268,7 @@
     "paymentCutOff": 18
   },
   {
-    "originalLoanDate": "2021-07-22T00:00:00.000Z",
+    "originalLoanDate": "2021-07-22",
     "originalLoanAmount": 67041,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -2277,7 +2277,7 @@
     "paymentCutOff": 47
   },
   {
-    "originalLoanDate": "2021-07-22T00:00:00.000Z",
+    "originalLoanDate": "2021-07-22",
     "originalLoanAmount": 67041,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -2286,7 +2286,7 @@
     "paymentCutOff": 12
   },
   {
-    "originalLoanDate": "2021-12-13T00:00:00.000Z",
+    "originalLoanDate": "2021-12-13",
     "originalLoanAmount": 95882,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -2295,7 +2295,7 @@
     "paymentCutOff": 25
   },
   {
-    "originalLoanDate": "2021-12-13T00:00:00.000Z",
+    "originalLoanDate": "2021-12-13",
     "originalLoanAmount": 95882,
     "yearlyInterestRate": 8,
     "terms": 5,
@@ -2304,7 +2304,7 @@
     "paymentCutOff": 7
   },
   {
-    "originalLoanDate": "2017-04-25T00:00:00.000Z",
+    "originalLoanDate": "2017-04-25",
     "originalLoanAmount": 50114,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -2313,7 +2313,7 @@
     "paymentCutOff": 63
   },
   {
-    "originalLoanDate": "2017-04-25T00:00:00.000Z",
+    "originalLoanDate": "2017-04-25",
     "originalLoanAmount": 50114,
     "yearlyInterestRate": 10,
     "terms": 15,
@@ -2322,7 +2322,7 @@
     "paymentCutOff": 63
   },
   {
-    "originalLoanDate": "2022-03-02T00:00:00.000Z",
+    "originalLoanDate": "2022-03-02",
     "originalLoanAmount": 56041,
     "yearlyInterestRate": 6,
     "terms": 10,
@@ -2331,7 +2331,7 @@
     "paymentCutOff": 4
   },
   {
-    "originalLoanDate": "2022-03-02T00:00:00.000Z",
+    "originalLoanDate": "2022-03-02",
     "originalLoanAmount": 56041,
     "yearlyInterestRate": 6,
     "terms": 10,
@@ -2340,7 +2340,7 @@
     "paymentCutOff": 4
   },
   {
-    "originalLoanDate": "2018-09-29T00:00:00.000Z",
+    "originalLoanDate": "2018-09-29",
     "originalLoanAmount": 86213,
     "yearlyInterestRate": 2,
     "terms": 10,
@@ -2349,7 +2349,7 @@
     "paymentCutOff": 195
   },
   {
-    "originalLoanDate": "2018-09-29T00:00:00.000Z",
+    "originalLoanDate": "2018-09-29",
     "originalLoanAmount": 86213,
     "yearlyInterestRate": 2,
     "terms": 10,
@@ -2358,7 +2358,7 @@
     "paymentCutOff": 46
   },
   {
-    "originalLoanDate": "2018-05-01T00:00:00.000Z",
+    "originalLoanDate": "2018-05-01",
     "originalLoanAmount": 66976,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -2367,7 +2367,7 @@
     "paymentCutOff": 109
   },
   {
-    "originalLoanDate": "2018-05-01T00:00:00.000Z",
+    "originalLoanDate": "2018-05-01",
     "originalLoanAmount": 66976,
     "yearlyInterestRate": 4,
     "terms": 15,
@@ -2376,7 +2376,7 @@
     "paymentCutOff": 51
   },
   {
-    "originalLoanDate": "2022-01-20T00:00:00.000Z",
+    "originalLoanDate": "2022-01-20",
     "originalLoanAmount": 37967,
     "yearlyInterestRate": 2,
     "terms": 15,
@@ -2385,7 +2385,7 @@
     "paymentCutOff": 11
   },
   {
-    "originalLoanDate": "2022-01-20T00:00:00.000Z",
+    "originalLoanDate": "2022-01-20",
     "originalLoanAmount": 37967,
     "yearlyInterestRate": 2,
     "terms": 15,
@@ -2394,7 +2394,7 @@
     "paymentCutOff": 6
   },
   {
-    "originalLoanDate": "2017-12-26T00:00:00.000Z",
+    "originalLoanDate": "2017-12-26",
     "originalLoanAmount": 84595,
     "yearlyInterestRate": 8,
     "terms": 30,
@@ -2403,7 +2403,7 @@
     "paymentCutOff": 109
   },
   {
-    "originalLoanDate": "2017-12-26T00:00:00.000Z",
+    "originalLoanDate": "2017-12-26",
     "originalLoanAmount": 84595,
     "yearlyInterestRate": 8,
     "terms": 30,
@@ -2412,7 +2412,7 @@
     "paymentCutOff": 55
   },
   {
-    "originalLoanDate": "2021-03-16T00:00:00.000Z",
+    "originalLoanDate": "2021-03-16",
     "originalLoanAmount": 42279,
     "yearlyInterestRate": 2,
     "terms": 20,
@@ -2421,7 +2421,7 @@
     "paymentCutOff": 33
   },
   {
-    "originalLoanDate": "2021-03-16T00:00:00.000Z",
+    "originalLoanDate": "2021-03-16",
     "originalLoanAmount": 42279,
     "yearlyInterestRate": 2,
     "terms": 20,
@@ -2430,7 +2430,7 @@
     "paymentCutOff": 16
   },
   {
-    "originalLoanDate": "2018-11-15T00:00:00.000Z",
+    "originalLoanDate": "2018-11-15",
     "originalLoanAmount": 54307,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -2439,7 +2439,7 @@
     "paymentCutOff": 44
   },
   {
-    "originalLoanDate": "2018-11-15T00:00:00.000Z",
+    "originalLoanDate": "2018-11-15",
     "originalLoanAmount": 54307,
     "yearlyInterestRate": 8,
     "terms": 10,
@@ -2448,7 +2448,7 @@
     "paymentCutOff": 44
   },
   {
-    "originalLoanDate": "2017-02-12T00:00:00.000Z",
+    "originalLoanDate": "2017-02-12",
     "originalLoanAmount": 86517,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -2457,7 +2457,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2017-02-12T00:00:00.000Z",
+    "originalLoanDate": "2017-02-12",
     "originalLoanAmount": 86517,
     "yearlyInterestRate": 6,
     "terms": 5,
@@ -2466,7 +2466,7 @@
     "paymentCutOff": 65
   },
   {
-    "originalLoanDate": "2019-04-13T00:00:00.000Z",
+    "originalLoanDate": "2019-04-13",
     "originalLoanAmount": 59902,
     "yearlyInterestRate": 6,
     "terms": 30,
@@ -2475,7 +2475,7 @@
     "paymentCutOff": 83
   },
   {
-    "originalLoanDate": "2019-04-13T00:00:00.000Z",
+    "originalLoanDate": "2019-04-13",
     "originalLoanAmount": 59902,
     "yearlyInterestRate": 6,
     "terms": 30,
